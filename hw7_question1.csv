@@ -1,0 +1,2182 @@
+﻿COUNT,POPULATION,SEX,SITE,YEAR
+44,39865121,Female,Anaplastic astrocytoma,2004
+25,39998876,Female,Anaplastic astrocytoma,2005
+31,40165421,Female,Anaplastic astrocytoma,2006
+31,40382360,Female,Anaplastic astrocytoma,2007
+32,40576293,Female,Anaplastic astrocytoma,2008
+30,40670476,Female,Anaplastic astrocytoma,2009
+40,40632802,Female,Anaplastic astrocytoma,2010
+39,40459979,Female,Anaplastic astrocytoma,2011
+24,40305950,Female,Anaplastic astrocytoma,2012
+50,40209737,Female,Anaplastic astrocytoma,2013
+40,40151698,Female,Anaplastic astrocytoma,2014
+34,40146685,Female,Anaplastic astrocytoma,2015
+29,40165280,Female,Anaplastic astrocytoma,2016
+25,40141655,Female,Anaplastic astrocytoma,2017
+93,39865121,Female,"Astrocytoma, NOS",2004
+92,39998876,Female,"Astrocytoma, NOS",2005
+89,40165421,Female,"Astrocytoma, NOS",2006
+85,40382360,Female,"Astrocytoma, NOS",2007
+85,40576293,Female,"Astrocytoma, NOS",2008
+96,40670476,Female,"Astrocytoma, NOS",2009
+93,40632802,Female,"Astrocytoma, NOS",2010
+81,40459979,Female,"Astrocytoma, NOS",2011
+84,40305950,Female,"Astrocytoma, NOS",2012
+99,40209737,Female,"Astrocytoma, NOS",2013
+101,40151698,Female,"Astrocytoma, NOS",2014
+74,40146685,Female,"Astrocytoma, NOS",2015
+79,40165280,Female,"Astrocytoma, NOS",2016
+72,40141655,Female,"Astrocytoma, NOS",2017
+29,39865121,Female,Choroid plexus,2004
+21,39998876,Female,Choroid plexus,2005
+28,40165421,Female,Choroid plexus,2006
+30,40382360,Female,Choroid plexus,2007
+42,40576293,Female,Choroid plexus,2008
+22,40670476,Female,Choroid plexus,2009
+29,40632802,Female,Choroid plexus,2010
+27,40459979,Female,Choroid plexus,2011
+24,40305950,Female,Choroid plexus,2012
+29,40209737,Female,Choroid plexus,2013
+20,40151698,Female,Choroid plexus,2014
+31,40146685,Female,Choroid plexus,2015
+23,40165280,Female,Choroid plexus,2016
+33,40141655,Female,Choroid plexus,2017
+83,39865121,Female,Craniopharyngioma,2004
+78,39998876,Female,Craniopharyngioma,2005
+77,40165421,Female,Craniopharyngioma,2006
+96,40382360,Female,Craniopharyngioma,2007
+64,40576293,Female,Craniopharyngioma,2008
+91,40670476,Female,Craniopharyngioma,2009
+92,40632802,Female,Craniopharyngioma,2010
+86,40459979,Female,Craniopharyngioma,2011
+78,40305950,Female,Craniopharyngioma,2012
+89,40209737,Female,Craniopharyngioma,2013
+91,40151698,Female,Craniopharyngioma,2014
+81,40146685,Female,Craniopharyngioma,2015
+67,40165280,Female,Craniopharyngioma,2016
+78,40141655,Female,Craniopharyngioma,2017
+20,39865121,Female,Diffuse astrocytoma,2004
+20,39998876,Female,Diffuse astrocytoma,2005
+17,40382360,Female,Diffuse astrocytoma,2007
+21,40576293,Female,Diffuse astrocytoma,2008
+18,40670476,Female,Diffuse astrocytoma,2009
+19,40632802,Female,Diffuse astrocytoma,2010
+215,39865121,Female,Embryonal/primitive/medulloblastoma,2004
+186,39998876,Female,Embryonal/primitive/medulloblastoma,2005
+203,40165421,Female,Embryonal/primitive/medulloblastoma,2006
+220,40382360,Female,Embryonal/primitive/medulloblastoma,2007
+229,40576293,Female,Embryonal/primitive/medulloblastoma,2008
+205,40670476,Female,Embryonal/primitive/medulloblastoma,2009
+175,40632802,Female,Embryonal/primitive/medulloblastoma,2010
+196,40459979,Female,Embryonal/primitive/medulloblastoma,2011
+180,40305950,Female,Embryonal/primitive/medulloblastoma,2012
+186,40209737,Female,Embryonal/primitive/medulloblastoma,2013
+211,40151698,Female,Embryonal/primitive/medulloblastoma,2014
+191,40146685,Female,Embryonal/primitive/medulloblastoma,2015
+179,40165280,Female,Embryonal/primitive/medulloblastoma,2016
+166,40141655,Female,Embryonal/primitive/medulloblastoma,2017
+21,40459979,Female,Ependymoma variants,2011
+16,40305950,Female,Ependymoma variants,2012
+17,40209737,Female,Ependymoma variants,2013
+97,39865121,Female,Ependymoma/anaplastic ependymoma,2004
+111,39998876,Female,Ependymoma/anaplastic ependymoma,2005
+99,40165421,Female,Ependymoma/anaplastic ependymoma,2006
+71,40382360,Female,Ependymoma/anaplastic ependymoma,2007
+75,40576293,Female,Ependymoma/anaplastic ependymoma,2008
+81,40670476,Female,Ependymoma/anaplastic ependymoma,2009
+93,40632802,Female,Ependymoma/anaplastic ependymoma,2010
+99,40459979,Female,Ependymoma/anaplastic ependymoma,2011
+88,40305950,Female,Ependymoma/anaplastic ependymoma,2012
+90,40209737,Female,Ependymoma/anaplastic ependymoma,2013
+87,40151698,Female,Ependymoma/anaplastic ependymoma,2014
+91,40146685,Female,Ependymoma/anaplastic ependymoma,2015
+78,40165280,Female,Ependymoma/anaplastic ependymoma,2016
+96,40141655,Female,Ependymoma/anaplastic ependymoma,2017
+42,39865121,Female,Germ Cell Tumors,2004
+47,39998876,Female,Germ Cell Tumors,2005
+17,40165421,Female,Germ Cell Tumors,2006
+24,40165421,Female,Germ Cell Tumors,2006
+33,40382360,Female,Germ Cell Tumors,2007
+17,40576293,Female,Germ Cell Tumors,2008
+30,40576293,Female,Germ Cell Tumors,2008
+19,40670476,Female,Germ Cell Tumors,2009
+43,40670476,Female,Germ Cell Tumors,2009
+21,40632802,Female,Germ Cell Tumors,2010
+52,40632802,Female,Germ Cell Tumors,2010
+22,40459979,Female,Germ Cell Tumors,2011
+37,40459979,Female,Germ Cell Tumors,2011
+16,40305950,Female,Germ Cell Tumors,2012
+21,40305950,Female,Germ Cell Tumors,2012
+19,40209737,Female,Germ Cell Tumors,2013
+47,40209737,Female,Germ Cell Tumors,2013
+23,40151698,Female,Germ Cell Tumors,2014
+34,40151698,Female,Germ Cell Tumors,2014
+18,40146685,Female,Germ Cell Tumors,2015
+46,40146685,Female,Germ Cell Tumors,2015
+24,40165280,Female,Germ Cell Tumors,2016
+58,40165280,Female,Germ Cell Tumors,2016
+43,40141655,Female,Germ Cell Tumors,2017
+52,39865121,Female,Glioblastoma,2004
+39,39998876,Female,Glioblastoma,2005
+44,40165421,Female,Glioblastoma,2006
+59,40382360,Female,Glioblastoma,2007
+62,40576293,Female,Glioblastoma,2008
+39,40670476,Female,Glioblastoma,2009
+51,40632802,Female,Glioblastoma,2010
+75,40459979,Female,Glioblastoma,2011
+75,40305950,Female,Glioblastoma,2012
+71,40209737,Female,Glioblastoma,2013
+67,40151698,Female,Glioblastoma,2014
+68,40146685,Female,Glioblastoma,2015
+54,40165280,Female,Glioblastoma,2016
+64,40141655,Female,Glioblastoma,2017
+233,39865121,Female,"Glioma malignant, NOS",2004
+237,39998876,Female,"Glioma malignant, NOS",2005
+245,40165421,Female,"Glioma malignant, NOS",2006
+267,40382360,Female,"Glioma malignant, NOS",2007
+281,40576293,Female,"Glioma malignant, NOS",2008
+297,40670476,Female,"Glioma malignant, NOS",2009
+263,40632802,Female,"Glioma malignant, NOS",2010
+20,40459979,Female,"Glioma malignant, NOS",2011
+310,40459979,Female,"Glioma malignant, NOS",2011
+17,40305950,Female,"Glioma malignant, NOS",2012
+226,40305950,Female,"Glioma malignant, NOS",2012
+300,40209737,Female,"Glioma malignant, NOS",2013
+265,40151698,Female,"Glioma malignant, NOS",2014
+271,40146685,Female,"Glioma malignant, NOS",2015
+23,40165280,Female,"Glioma malignant, NOS",2016
+300,40165280,Female,"Glioma malignant, NOS",2016
+18,40141655,Female,"Glioma malignant, NOS",2017
+291,40141655,Female,"Glioma malignant, NOS",2017
+19,39998876,Female,Hemangioblastoma,2005
+18,40382360,Female,Hemangioblastoma,2007
+16,40670476,Female,Hemangioblastoma,2009
+19,40209737,Female,Hemangioblastoma,2013
+30,40151698,Female,Hemangioblastoma,2014
+16,40146685,Female,Hemangioblastoma,2015
+21,40165280,Female,Hemangioblastoma,2016
+24,39998876,Female,Hemangioma,2005
+35,40165421,Female,Hemangioma,2006
+31,40382360,Female,Hemangioma,2007
+46,40576293,Female,Hemangioma,2008
+53,40670476,Female,Hemangioma,2009
+44,40632802,Female,Hemangioma,2010
+72,40459979,Female,Hemangioma,2011
+66,40305950,Female,Hemangioma,2012
+62,40209737,Female,Hemangioma,2013
+64,40151698,Female,Hemangioma,2014
+73,40146685,Female,Hemangioma,2015
+51,40165280,Female,Hemangioma,2016
+48,40141655,Female,Hemangioma,2017
+46,39865121,Female,Meningioma,2004
+74,39998876,Female,Meningioma,2005
+50,40165421,Female,Meningioma,2006
+55,40382360,Female,Meningioma,2007
+61,40576293,Female,Meningioma,2008
+58,40670476,Female,Meningioma,2009
+60,40632802,Female,Meningioma,2010
+67,40459979,Female,Meningioma,2011
+64,40305950,Female,Meningioma,2012
+76,40209737,Female,Meningioma,2013
+67,40151698,Female,Meningioma,2014
+66,40146685,Female,Meningioma,2015
+69,40165280,Female,Meningioma,2016
+64,40141655,Female,Meningioma,2017
+22,39865121,Female,Mixed glioma,2004
+17,39998876,Female,Mixed glioma,2005
+17,40382360,Female,Mixed glioma,2007
+21,40576293,Female,Mixed glioma,2008
+17,40670476,Female,Mixed glioma,2009
+32,39865121,Female,"Neoplasm, unspecified",2004
+27,39865121,Female,"Neoplasm, unspecified",2004
+57,39998876,Female,"Neoplasm, unspecified",2005
+19,39998876,Female,"Neoplasm, unspecified",2005
+51,40165421,Female,"Neoplasm, unspecified",2006
+26,40165421,Female,"Neoplasm, unspecified",2006
+52,40382360,Female,"Neoplasm, unspecified",2007
+16,40382360,Female,"Neoplasm, unspecified",2007
+78,40576293,Female,"Neoplasm, unspecified",2008
+62,40670476,Female,"Neoplasm, unspecified",2009
+89,40632802,Female,"Neoplasm, unspecified",2010
+67,40459979,Female,"Neoplasm, unspecified",2011
+20,40459979,Female,"Neoplasm, unspecified",2011
+72,40305950,Female,"Neoplasm, unspecified",2012
+24,40305950,Female,"Neoplasm, unspecified",2012
+73,40209737,Female,"Neoplasm, unspecified",2013
+23,40209737,Female,"Neoplasm, unspecified",2013
+79,40151698,Female,"Neoplasm, unspecified",2014
+22,40151698,Female,"Neoplasm, unspecified",2014
+81,40146685,Female,"Neoplasm, unspecified",2015
+53,40165280,Female,"Neoplasm, unspecified",2016
+25,40165280,Female,"Neoplasm, unspecified",2016
+51,40141655,Female,"Neoplasm, unspecified",2017
+21,40141655,Female,"Neoplasm, unspecified",2017
+115,39865121,Female,"Nerve sheath, benign and malignant",2004
+165,39998876,Female,"Nerve sheath, benign and malignant",2005
+157,40165421,Female,"Nerve sheath, benign and malignant",2006
+129,40382360,Female,"Nerve sheath, benign and malignant",2007
+145,40576293,Female,"Nerve sheath, benign and malignant",2008
+155,40670476,Female,"Nerve sheath, benign and malignant",2009
+130,40632802,Female,"Nerve sheath, benign and malignant",2010
+132,40459979,Female,"Nerve sheath, benign and malignant",2011
+143,40305950,Female,"Nerve sheath, benign and malignant",2012
+150,40209737,Female,"Nerve sheath, benign and malignant",2013
+102,40151698,Female,"Nerve sheath, benign and malignant",2014
+156,40146685,Female,"Nerve sheath, benign and malignant",2015
+122,40165280,Female,"Nerve sheath, benign and malignant",2016
+117,40141655,Female,"Nerve sheath, benign and malignant",2017
+115,39865121,Female,"Neuronal/glial, neuronal",2004
+22,39865121,Female,"Neuronal/glial, neuronal",2004
+136,39998876,Female,"Neuronal/glial, neuronal",2005
+26,39998876,Female,"Neuronal/glial, neuronal",2005
+121,40165421,Female,"Neuronal/glial, neuronal",2006
+25,40165421,Female,"Neuronal/glial, neuronal",2006
+138,40382360,Female,"Neuronal/glial, neuronal",2007
+32,40382360,Female,"Neuronal/glial, neuronal",2007
+134,40576293,Female,"Neuronal/glial, neuronal",2008
+28,40576293,Female,"Neuronal/glial, neuronal",2008
+137,40670476,Female,"Neuronal/glial, neuronal",2009
+17,40670476,Female,"Neuronal/glial, neuronal",2009
+144,40632802,Female,"Neuronal/glial, neuronal",2010
+19,40632802,Female,"Neuronal/glial, neuronal",2010
+153,40459979,Female,"Neuronal/glial, neuronal",2011
+154,40305950,Female,"Neuronal/glial, neuronal",2012
+17,40305950,Female,"Neuronal/glial, neuronal",2012
+159,40209737,Female,"Neuronal/glial, neuronal",2013
+23,40209737,Female,"Neuronal/glial, neuronal",2013
+155,40151698,Female,"Neuronal/glial, neuronal",2014
+25,40151698,Female,"Neuronal/glial, neuronal",2014
+170,40146685,Female,"Neuronal/glial, neuronal",2015
+16,40146685,Female,"Neuronal/glial, neuronal",2015
+184,40165280,Female,"Neuronal/glial, neuronal",2016
+29,40165280,Female,"Neuronal/glial, neuronal",2016
+165,40141655,Female,"Neuronal/glial, neuronal",2017
+20,40141655,Female,"Neuronal/glial, neuronal",2017
+24,39865121,Female,Oligodendroglioma,2004
+23,39998876,Female,Oligodendroglioma,2005
+27,40165421,Female,Oligodendroglioma,2006
+29,40382360,Female,Oligodendroglioma,2007
+18,40576293,Female,Oligodendroglioma,2008
+17,40670476,Female,Oligodendroglioma,2009
+24,40632802,Female,Oligodendroglioma,2010
+19,40459979,Female,Oligodendroglioma,2011
+22,40305950,Female,Oligodendroglioma,2012
+21,40151698,Female,Oligodendroglioma,2014
+18,40146685,Female,Oligodendroglioma,2015
+21,40165280,Female,Oligodendroglioma,2016
+18,39998876,Female,Other mesenchymal,2005
+18,40165421,Female,Other mesenchymal,2006
+20,40382360,Female,Other mesenchymal,2007
+19,40576293,Female,Other mesenchymal,2008
+29,40670476,Female,Other mesenchymal,2009
+26,40632802,Female,Other mesenchymal,2010
+26,40459979,Female,Other mesenchymal,2011
+51,40305950,Female,Other mesenchymal,2012
+40,40209737,Female,Other mesenchymal,2013
+41,40151698,Female,Other mesenchymal,2014
+50,40146685,Female,Other mesenchymal,2015
+51,40165280,Female,Other mesenchymal,2016
+45,40141655,Female,Other mesenchymal,2017
+329,39865121,Female,Pilocytic astrocytoma,2004
+321,39998876,Female,Pilocytic astrocytoma,2005
+318,40165421,Female,Pilocytic astrocytoma,2006
+338,40382360,Female,Pilocytic astrocytoma,2007
+335,40576293,Female,Pilocytic astrocytoma,2008
+354,40670476,Female,Pilocytic astrocytoma,2009
+392,40632802,Female,Pilocytic astrocytoma,2010
+354,40459979,Female,Pilocytic astrocytoma,2011
+379,40305950,Female,Pilocytic astrocytoma,2012
+365,40209737,Female,Pilocytic astrocytoma,2013
+401,40151698,Female,Pilocytic astrocytoma,2014
+354,40146685,Female,Pilocytic astrocytoma,2015
+314,40165280,Female,Pilocytic astrocytoma,2016
+377,40141655,Female,Pilocytic astrocytoma,2017
+19,40576293,Female,Pineal parenchymal,2008
+16,40151698,Female,Pineal parenchymal,2014
+24,40146685,Female,Pineal parenchymal,2015
+271,39865121,Female,Pituitary,2004
+313,39998876,Female,Pituitary,2005
+356,40165421,Female,Pituitary,2006
+341,40382360,Female,Pituitary,2007
+398,40576293,Female,Pituitary,2008
+398,40670476,Female,Pituitary,2009
+456,40632802,Female,Pituitary,2010
+460,40459979,Female,Pituitary,2011
+484,40305950,Female,Pituitary,2012
+466,40209737,Female,Pituitary,2013
+509,40151698,Female,Pituitary,2014
+492,40146685,Female,Pituitary,2015
+527,40165280,Female,Pituitary,2016
+491,40141655,Female,Pituitary,2017
+115,39865121,Female,Tumors of Cranial and Spinal Nerves,2004
+165,39998876,Female,Tumors of Cranial and Spinal Nerves,2005
+157,40165421,Female,Tumors of Cranial and Spinal Nerves,2006
+129,40382360,Female,Tumors of Cranial and Spinal Nerves,2007
+145,40576293,Female,Tumors of Cranial and Spinal Nerves,2008
+155,40670476,Female,Tumors of Cranial and Spinal Nerves,2009
+130,40632802,Female,Tumors of Cranial and Spinal Nerves,2010
+132,40459979,Female,Tumors of Cranial and Spinal Nerves,2011
+143,40305950,Female,Tumors of Cranial and Spinal Nerves,2012
+150,40209737,Female,Tumors of Cranial and Spinal Nerves,2013
+102,40151698,Female,Tumors of Cranial and Spinal Nerves,2014
+156,40146685,Female,Tumors of Cranial and Spinal Nerves,2015
+122,40165280,Female,Tumors of Cranial and Spinal Nerves,2016
+117,40141655,Female,Tumors of Cranial and Spinal Nerves,2017
+190,39865121,Female,Tumors of Neuroepthelial Tissue,2004
+1207,39865121,Female,Tumors of Neuroepthelial Tissue,2004
+197,39998876,Female,Tumors of Neuroepthelial Tissue,2005
+1146,39998876,Female,Tumors of Neuroepthelial Tissue,2005
+201,40165421,Female,Tumors of Neuroepthelial Tissue,2006
+1160,40165421,Female,Tumors of Neuroepthelial Tissue,2006
+230,40382360,Female,Tumors of Neuroepthelial Tissue,2007
+1237,40382360,Female,Tumors of Neuroepthelial Tissue,2007
+229,40576293,Female,Tumors of Neuroepthelial Tissue,2008
+1232,40576293,Female,Tumors of Neuroepthelial Tissue,2008
+215,40670476,Female,Tumors of Neuroepthelial Tissue,2009
+1217,40670476,Female,Tumors of Neuroepthelial Tissue,2009
+232,40632802,Female,Tumors of Neuroepthelial Tissue,2010
+1221,40632802,Female,Tumors of Neuroepthelial Tissue,2010
+247,40459979,Female,Tumors of Neuroepthelial Tissue,2011
+1268,40459979,Female,Tumors of Neuroepthelial Tissue,2011
+252,40305950,Female,Tumors of Neuroepthelial Tissue,2012
+1172,40305950,Female,Tumors of Neuroepthelial Tissue,2012
+260,40209737,Female,Tumors of Neuroepthelial Tissue,2013
+1262,40209737,Female,Tumors of Neuroepthelial Tissue,2013
+243,40151698,Female,Tumors of Neuroepthelial Tissue,2014
+1293,40151698,Female,Tumors of Neuroepthelial Tissue,2014
+251,40146685,Female,Tumors of Neuroepthelial Tissue,2015
+1190,40146685,Female,Tumors of Neuroepthelial Tissue,2015
+276,40165280,Female,Tumors of Neuroepthelial Tissue,2016
+1140,40165280,Female,Tumors of Neuroepthelial Tissue,2016
+250,40141655,Female,Tumors of Neuroepthelial Tissue,2017
+1176,40141655,Female,Tumors of Neuroepthelial Tissue,2017
+354,39865121,Female,Tumors of Sellar Region,2004
+391,39998876,Female,Tumors of Sellar Region,2005
+433,40165421,Female,Tumors of Sellar Region,2006
+437,40382360,Female,Tumors of Sellar Region,2007
+462,40576293,Female,Tumors of Sellar Region,2008
+489,40670476,Female,Tumors of Sellar Region,2009
+548,40632802,Female,Tumors of Sellar Region,2010
+546,40459979,Female,Tumors of Sellar Region,2011
+562,40305950,Female,Tumors of Sellar Region,2012
+555,40209737,Female,Tumors of Sellar Region,2013
+600,40151698,Female,Tumors of Sellar Region,2014
+573,40146685,Female,Tumors of Sellar Region,2015
+594,40165280,Female,Tumors of Sellar Region,2016
+569,40141655,Female,Tumors of Sellar Region,2017
+70,39865121,Female,Tumors of the Meninges,2004
+111,39998876,Female,Tumors of the Meninges,2005
+76,40165421,Female,Tumors of the Meninges,2006
+93,40382360,Female,Tumors of the Meninges,2007
+90,40576293,Female,Tumors of the Meninges,2008
+103,40670476,Female,Tumors of the Meninges,2009
+99,40632802,Female,Tumors of the Meninges,2010
+107,40459979,Female,Tumors of the Meninges,2011
+130,40305950,Female,Tumors of the Meninges,2012
+135,40209737,Female,Tumors of the Meninges,2013
+138,40151698,Female,Tumors of the Meninges,2014
+132,40146685,Female,Tumors of the Meninges,2015
+141,40165280,Female,Tumors of the Meninges,2016
+119,40141655,Female,Tumors of the Meninges,2017
+47,39865121,Female,Unclassified Tumors,2004
+27,39865121,Female,Unclassified Tumors,2004
+81,39998876,Female,Unclassified Tumors,2005
+20,39998876,Female,Unclassified Tumors,2005
+86,40165421,Female,Unclassified Tumors,2006
+27,40165421,Female,Unclassified Tumors,2006
+83,40382360,Female,Unclassified Tumors,2007
+16,40382360,Female,Unclassified Tumors,2007
+124,40576293,Female,Unclassified Tumors,2008
+115,40670476,Female,Unclassified Tumors,2009
+17,40670476,Female,Unclassified Tumors,2009
+133,40632802,Female,Unclassified Tumors,2010
+139,40459979,Female,Unclassified Tumors,2011
+20,40459979,Female,Unclassified Tumors,2011
+138,40305950,Female,Unclassified Tumors,2012
+24,40305950,Female,Unclassified Tumors,2012
+136,40209737,Female,Unclassified Tumors,2013
+24,40209737,Female,Unclassified Tumors,2013
+143,40151698,Female,Unclassified Tumors,2014
+24,40151698,Female,Unclassified Tumors,2014
+154,40146685,Female,Unclassified Tumors,2015
+16,40146685,Female,Unclassified Tumors,2015
+104,40165280,Female,Unclassified Tumors,2016
+26,40165280,Female,Unclassified Tumors,2016
+99,40141655,Female,Unclassified Tumors,2017
+22,40141655,Female,Unclassified Tumors,2017
+21,39865121,Female,Unique astrocytoma variants,2004
+19,39865121,Female,Unique astrocytoma variants,2004
+24,39998876,Female,Unique astrocytoma variants,2005
+20,39998876,Female,Unique astrocytoma variants,2005
+24,40165421,Female,Unique astrocytoma variants,2006
+19,40165421,Female,Unique astrocytoma variants,2006
+36,40382360,Female,Unique astrocytoma variants,2007
+35,40382360,Female,Unique astrocytoma variants,2007
+26,40576293,Female,Unique astrocytoma variants,2008
+36,40670476,Female,Unique astrocytoma variants,2009
+20,40670476,Female,Unique astrocytoma variants,2009
+29,40632802,Female,Unique astrocytoma variants,2010
+18,40459979,Female,Unique astrocytoma variants,2011
+23,40459979,Female,Unique astrocytoma variants,2011
+33,40305950,Female,Unique astrocytoma variants,2012
+19,40305950,Female,Unique astrocytoma variants,2012
+35,40209737,Female,Unique astrocytoma variants,2013
+16,40209737,Female,Unique astrocytoma variants,2013
+40,40151698,Female,Unique astrocytoma variants,2014
+16,40151698,Female,Unique astrocytoma variants,2014
+18,40146685,Female,Unique astrocytoma variants,2015
+25,40146685,Female,Unique astrocytoma variants,2015
+21,40165280,Female,Unique astrocytoma variants,2016
+20,40165280,Female,Unique astrocytoma variants,2016
+17,40141655,Female,Unique astrocytoma variants,2017
+23,40141655,Female,Unique astrocytoma variants,2017
+26,41889233,Male,Anaplastic astrocytoma,2004
+36,42006384,Male,Anaplastic astrocytoma,2005
+36,42158997,Male,Anaplastic astrocytoma,2006
+56,42367071,Male,Anaplastic astrocytoma,2007
+43,42541971,Male,Anaplastic astrocytoma,2008
+40,42609915,Male,Anaplastic astrocytoma,2009
+43,42549101,Male,Anaplastic astrocytoma,2010
+34,42367731,Male,Anaplastic astrocytoma,2011
+44,42177631,Male,Anaplastic astrocytoma,2012
+45,42037054,Male,Anaplastic astrocytoma,2013
+58,41956389,Male,Anaplastic astrocytoma,2014
+46,41936220,Male,Anaplastic astrocytoma,2015
+41,41945689,Male,Anaplastic astrocytoma,2016
+31,41924375,Male,Anaplastic astrocytoma,2017
+109,41889233,Male,"Astrocytoma, NOS",2004
+99,42006384,Male,"Astrocytoma, NOS",2005
+107,42158997,Male,"Astrocytoma, NOS",2006
+95,42367071,Male,"Astrocytoma, NOS",2007
+93,42541971,Male,"Astrocytoma, NOS",2008
+108,42609915,Male,"Astrocytoma, NOS",2009
+124,42549101,Male,"Astrocytoma, NOS",2010
+103,42367731,Male,"Astrocytoma, NOS",2011
+82,42177631,Male,"Astrocytoma, NOS",2012
+90,42037054,Male,"Astrocytoma, NOS",2013
+111,41956389,Male,"Astrocytoma, NOS",2014
+97,41936220,Male,"Astrocytoma, NOS",2015
+90,41945689,Male,"Astrocytoma, NOS",2016
+97,41924375,Male,"Astrocytoma, NOS",2017
+27,41889233,Male,Choroid plexus,2004
+34,42006384,Male,Choroid plexus,2005
+40,42158997,Male,Choroid plexus,2006
+35,42367071,Male,Choroid plexus,2007
+37,42541971,Male,Choroid plexus,2008
+38,42609915,Male,Choroid plexus,2009
+39,42549101,Male,Choroid plexus,2010
+17,42549101,Male,Choroid plexus,2010
+33,42367731,Male,Choroid plexus,2011
+37,42177631,Male,Choroid plexus,2012
+37,42037054,Male,Choroid plexus,2013
+36,41956389,Male,Choroid plexus,2014
+35,41936220,Male,Choroid plexus,2015
+19,41936220,Male,Choroid plexus,2015
+36,41945689,Male,Choroid plexus,2016
+29,41924375,Male,Choroid plexus,2017
+85,41889233,Male,Craniopharyngioma,2004
+94,42006384,Male,Craniopharyngioma,2005
+81,42158997,Male,Craniopharyngioma,2006
+86,42367071,Male,Craniopharyngioma,2007
+96,42541971,Male,Craniopharyngioma,2008
+80,42609915,Male,Craniopharyngioma,2009
+83,42549101,Male,Craniopharyngioma,2010
+71,42367731,Male,Craniopharyngioma,2011
+79,42177631,Male,Craniopharyngioma,2012
+92,42037054,Male,Craniopharyngioma,2013
+105,41956389,Male,Craniopharyngioma,2014
+94,41936220,Male,Craniopharyngioma,2015
+74,41945689,Male,Craniopharyngioma,2016
+94,41924375,Male,Craniopharyngioma,2017
+24,41889233,Male,Diffuse astrocytoma,2004
+23,42006384,Male,Diffuse astrocytoma,2005
+18,42158997,Male,Diffuse astrocytoma,2006
+25,42367071,Male,Diffuse astrocytoma,2007
+23,42541971,Male,Diffuse astrocytoma,2008
+20,42609915,Male,Diffuse astrocytoma,2009
+24,42367731,Male,Diffuse astrocytoma,2011
+19,42177631,Male,Diffuse astrocytoma,2012
+294,41889233,Male,Embryonal/primitive/medulloblastoma,2004
+280,42006384,Male,Embryonal/primitive/medulloblastoma,2005
+295,42158997,Male,Embryonal/primitive/medulloblastoma,2006
+299,42367071,Male,Embryonal/primitive/medulloblastoma,2007
+321,42541971,Male,Embryonal/primitive/medulloblastoma,2008
+310,42609915,Male,Embryonal/primitive/medulloblastoma,2009
+313,42549101,Male,Embryonal/primitive/medulloblastoma,2010
+301,42367731,Male,Embryonal/primitive/medulloblastoma,2011
+285,42177631,Male,Embryonal/primitive/medulloblastoma,2012
+272,42037054,Male,Embryonal/primitive/medulloblastoma,2013
+282,41956389,Male,Embryonal/primitive/medulloblastoma,2014
+296,41936220,Male,Embryonal/primitive/medulloblastoma,2015
+287,41945689,Male,Embryonal/primitive/medulloblastoma,2016
+292,41924375,Male,Embryonal/primitive/medulloblastoma,2017
+19,42006384,Male,Ependymoma variants,2005
+27,42158997,Male,Ependymoma variants,2006
+20,42367071,Male,Ependymoma variants,2007
+22,42609915,Male,Ependymoma variants,2009
+26,42549101,Male,Ependymoma variants,2010
+22,42367731,Male,Ependymoma variants,2011
+17,42177631,Male,Ependymoma variants,2012
+21,42037054,Male,Ependymoma variants,2013
+16,41936220,Male,Ependymoma variants,2015
+23,41945689,Male,Ependymoma variants,2016
+21,41924375,Male,Ependymoma variants,2017
+103,41889233,Male,Ependymoma/anaplastic ependymoma,2004
+106,42006384,Male,Ependymoma/anaplastic ependymoma,2005
+111,42158997,Male,Ependymoma/anaplastic ependymoma,2006
+115,42367071,Male,Ependymoma/anaplastic ependymoma,2007
+97,42541971,Male,Ependymoma/anaplastic ependymoma,2008
+114,42609915,Male,Ependymoma/anaplastic ependymoma,2009
+121,42549101,Male,Ependymoma/anaplastic ependymoma,2010
+116,42367731,Male,Ependymoma/anaplastic ependymoma,2011
+115,42177631,Male,Ependymoma/anaplastic ependymoma,2012
+114,42037054,Male,Ependymoma/anaplastic ependymoma,2013
+109,41956389,Male,Ependymoma/anaplastic ependymoma,2014
+111,41936220,Male,Ependymoma/anaplastic ependymoma,2015
+102,41945689,Male,Ependymoma/anaplastic ependymoma,2016
+119,41924375,Male,Ependymoma/anaplastic ependymoma,2017
+18,41889233,Male,Germ Cell Tumors,2004
+106,41889233,Male,Germ Cell Tumors,2004
+22,42006384,Male,Germ Cell Tumors,2005
+86,42006384,Male,Germ Cell Tumors,2005
+27,42158997,Male,Germ Cell Tumors,2006
+101,42158997,Male,Germ Cell Tumors,2006
+18,42367071,Male,Germ Cell Tumors,2007
+100,42367071,Male,Germ Cell Tumors,2007
+20,42541971,Male,Germ Cell Tumors,2008
+116,42541971,Male,Germ Cell Tumors,2008
+28,42609915,Male,Germ Cell Tumors,2009
+98,42609915,Male,Germ Cell Tumors,2009
+22,42549101,Male,Germ Cell Tumors,2010
+112,42549101,Male,Germ Cell Tumors,2010
+101,42367731,Male,Germ Cell Tumors,2011
+23,42177631,Male,Germ Cell Tumors,2012
+110,42177631,Male,Germ Cell Tumors,2012
+26,42037054,Male,Germ Cell Tumors,2013
+110,42037054,Male,Germ Cell Tumors,2013
+25,41956389,Male,Germ Cell Tumors,2014
+102,41956389,Male,Germ Cell Tumors,2014
+17,41936220,Male,Germ Cell Tumors,2015
+105,41936220,Male,Germ Cell Tumors,2015
+30,41945689,Male,Germ Cell Tumors,2016
+108,41945689,Male,Germ Cell Tumors,2016
+22,41924375,Male,Germ Cell Tumors,2017
+129,41924375,Male,Germ Cell Tumors,2017
+76,41889233,Male,Glioblastoma,2004
+61,42006384,Male,Glioblastoma,2005
+68,42158997,Male,Glioblastoma,2006
+69,42367071,Male,Glioblastoma,2007
+67,42541971,Male,Glioblastoma,2008
+82,42609915,Male,Glioblastoma,2009
+67,42549101,Male,Glioblastoma,2010
+84,42367731,Male,Glioblastoma,2011
+80,42177631,Male,Glioblastoma,2012
+91,42037054,Male,Glioblastoma,2013
+78,41956389,Male,Glioblastoma,2014
+82,41936220,Male,Glioblastoma,2015
+81,41945689,Male,Glioblastoma,2016
+69,41924375,Male,Glioblastoma,2017
+228,41889233,Male,"Glioma malignant, NOS",2004
+223,42006384,Male,"Glioma malignant, NOS",2005
+244,42158997,Male,"Glioma malignant, NOS",2006
+244,42367071,Male,"Glioma malignant, NOS",2007
+273,42541971,Male,"Glioma malignant, NOS",2008
+272,42609915,Male,"Glioma malignant, NOS",2009
+283,42549101,Male,"Glioma malignant, NOS",2010
+279,42367731,Male,"Glioma malignant, NOS",2011
+18,42177631,Male,"Glioma malignant, NOS",2012
+279,42177631,Male,"Glioma malignant, NOS",2012
+17,42037054,Male,"Glioma malignant, NOS",2013
+271,42037054,Male,"Glioma malignant, NOS",2013
+20,41956389,Male,"Glioma malignant, NOS",2014
+262,41956389,Male,"Glioma malignant, NOS",2014
+22,41936220,Male,"Glioma malignant, NOS",2015
+303,41936220,Male,"Glioma malignant, NOS",2015
+29,41945689,Male,"Glioma malignant, NOS",2016
+289,41945689,Male,"Glioma malignant, NOS",2016
+20,41924375,Male,"Glioma malignant, NOS",2017
+302,41924375,Male,"Glioma malignant, NOS",2017
+17,41889233,Male,Hemangioblastoma,2004
+16,42158997,Male,Hemangioblastoma,2006
+20,42367071,Male,Hemangioblastoma,2007
+24,42367731,Male,Hemangioblastoma,2011
+21,42177631,Male,Hemangioblastoma,2012
+17,42037054,Male,Hemangioblastoma,2013
+20,41956389,Male,Hemangioblastoma,2014
+16,41936220,Male,Hemangioblastoma,2015
+18,41945689,Male,Hemangioblastoma,2016
+21,41924375,Male,Hemangioblastoma,2017
+30,41889233,Male,Hemangioma,2004
+19,42006384,Male,Hemangioma,2005
+36,42158997,Male,Hemangioma,2006
+52,42367071,Male,Hemangioma,2007
+44,42541971,Male,Hemangioma,2008
+60,42609915,Male,Hemangioma,2009
+53,42549101,Male,Hemangioma,2010
+67,42367731,Male,Hemangioma,2011
+65,42177631,Male,Hemangioma,2012
+57,42037054,Male,Hemangioma,2013
+58,41956389,Male,Hemangioma,2014
+53,41936220,Male,Hemangioma,2015
+81,41945689,Male,Hemangioma,2016
+55,41924375,Male,Hemangioma,2017
+45,41889233,Male,Meningioma,2004
+53,42006384,Male,Meningioma,2005
+50,42158997,Male,Meningioma,2006
+53,42367071,Male,Meningioma,2007
+55,42541971,Male,Meningioma,2008
+61,42609915,Male,Meningioma,2009
+53,42549101,Male,Meningioma,2010
+66,42367731,Male,Meningioma,2011
+63,42177631,Male,Meningioma,2012
+54,42037054,Male,Meningioma,2013
+61,41956389,Male,Meningioma,2014
+71,41936220,Male,Meningioma,2015
+42,41945689,Male,Meningioma,2016
+59,41924375,Male,Meningioma,2017
+16,42367071,Male,Mixed glioma,2007
+18,42549101,Male,Mixed glioma,2010
+31,41889233,Male,"Neoplasm, unspecified",2004
+16,41889233,Male,"Neoplasm, unspecified",2004
+57,42006384,Male,"Neoplasm, unspecified",2005
+19,42006384,Male,"Neoplasm, unspecified",2005
+53,42158997,Male,"Neoplasm, unspecified",2006
+24,42158997,Male,"Neoplasm, unspecified",2006
+64,42367071,Male,"Neoplasm, unspecified",2007
+22,42367071,Male,"Neoplasm, unspecified",2007
+48,42541971,Male,"Neoplasm, unspecified",2008
+18,42541971,Male,"Neoplasm, unspecified",2008
+87,42609915,Male,"Neoplasm, unspecified",2009
+23,42609915,Male,"Neoplasm, unspecified",2009
+79,42549101,Male,"Neoplasm, unspecified",2010
+17,42549101,Male,"Neoplasm, unspecified",2010
+70,42367731,Male,"Neoplasm, unspecified",2011
+59,42177631,Male,"Neoplasm, unspecified",2012
+29,42177631,Male,"Neoplasm, unspecified",2012
+67,42037054,Male,"Neoplasm, unspecified",2013
+17,42037054,Male,"Neoplasm, unspecified",2013
+70,41956389,Male,"Neoplasm, unspecified",2014
+25,41956389,Male,"Neoplasm, unspecified",2014
+59,41936220,Male,"Neoplasm, unspecified",2015
+20,41936220,Male,"Neoplasm, unspecified",2015
+67,41945689,Male,"Neoplasm, unspecified",2016
+22,41945689,Male,"Neoplasm, unspecified",2016
+65,41924375,Male,"Neoplasm, unspecified",2017
+29,41924375,Male,"Neoplasm, unspecified",2017
+127,41889233,Male,"Nerve sheath, benign and malignant",2004
+124,42006384,Male,"Nerve sheath, benign and malignant",2005
+172,42158997,Male,"Nerve sheath, benign and malignant",2006
+162,42367071,Male,"Nerve sheath, benign and malignant",2007
+148,42541971,Male,"Nerve sheath, benign and malignant",2008
+156,42609915,Male,"Nerve sheath, benign and malignant",2009
+140,42549101,Male,"Nerve sheath, benign and malignant",2010
+148,42367731,Male,"Nerve sheath, benign and malignant",2011
+155,42177631,Male,"Nerve sheath, benign and malignant",2012
+154,42037054,Male,"Nerve sheath, benign and malignant",2013
+146,41956389,Male,"Nerve sheath, benign and malignant",2014
+148,41936220,Male,"Nerve sheath, benign and malignant",2015
+171,41945689,Male,"Nerve sheath, benign and malignant",2016
+103,41924375,Male,"Nerve sheath, benign and malignant",2017
+150,41889233,Male,"Neuronal/glial, neuronal",2004
+29,41889233,Male,"Neuronal/glial, neuronal",2004
+159,42006384,Male,"Neuronal/glial, neuronal",2005
+30,42006384,Male,"Neuronal/glial, neuronal",2005
+158,42158997,Male,"Neuronal/glial, neuronal",2006
+28,42158997,Male,"Neuronal/glial, neuronal",2006
+174,42367071,Male,"Neuronal/glial, neuronal",2007
+30,42367071,Male,"Neuronal/glial, neuronal",2007
+177,42541971,Male,"Neuronal/glial, neuronal",2008
+28,42541971,Male,"Neuronal/glial, neuronal",2008
+160,42609915,Male,"Neuronal/glial, neuronal",2009
+18,42609915,Male,"Neuronal/glial, neuronal",2009
+173,42549101,Male,"Neuronal/glial, neuronal",2010
+188,42367731,Male,"Neuronal/glial, neuronal",2011
+20,42367731,Male,"Neuronal/glial, neuronal",2011
+207,42177631,Male,"Neuronal/glial, neuronal",2012
+19,42177631,Male,"Neuronal/glial, neuronal",2012
+191,42037054,Male,"Neuronal/glial, neuronal",2013
+23,42037054,Male,"Neuronal/glial, neuronal",2013
+171,41956389,Male,"Neuronal/glial, neuronal",2014
+31,41956389,Male,"Neuronal/glial, neuronal",2014
+213,41936220,Male,"Neuronal/glial, neuronal",2015
+25,41936220,Male,"Neuronal/glial, neuronal",2015
+226,41945689,Male,"Neuronal/glial, neuronal",2016
+25,41945689,Male,"Neuronal/glial, neuronal",2016
+220,41924375,Male,"Neuronal/glial, neuronal",2017
+16,41924375,Male,"Neuronal/glial, neuronal",2017
+38,41889233,Male,Oligodendroglioma,2004
+29,42006384,Male,Oligodendroglioma,2005
+27,42158997,Male,Oligodendroglioma,2006
+23,42367071,Male,Oligodendroglioma,2007
+32,42541971,Male,Oligodendroglioma,2008
+26,42609915,Male,Oligodendroglioma,2009
+21,42549101,Male,Oligodendroglioma,2010
+17,42367731,Male,Oligodendroglioma,2011
+26,42177631,Male,Oligodendroglioma,2012
+19,42037054,Male,Oligodendroglioma,2013
+18,41956389,Male,Oligodendroglioma,2014
+18,41936220,Male,Oligodendroglioma,2015
+17,41945689,Male,Oligodendroglioma,2016
+22,42006384,Male,Other mesenchymal,2005
+17,42158997,Male,Other mesenchymal,2006
+20,42541971,Male,Other mesenchymal,2008
+20,42609915,Male,Other mesenchymal,2009
+26,42549101,Male,Other mesenchymal,2010
+34,42367731,Male,Other mesenchymal,2011
+45,42177631,Male,Other mesenchymal,2012
+34,42037054,Male,Other mesenchymal,2013
+33,41956389,Male,Other mesenchymal,2014
+35,41936220,Male,Other mesenchymal,2015
+48,41945689,Male,Other mesenchymal,2016
+45,41924375,Male,Other mesenchymal,2017
+372,41889233,Male,Pilocytic astrocytoma,2004
+352,42006384,Male,Pilocytic astrocytoma,2005
+359,42158997,Male,Pilocytic astrocytoma,2006
+348,42367071,Male,Pilocytic astrocytoma,2007
+394,42541971,Male,Pilocytic astrocytoma,2008
+366,42609915,Male,Pilocytic astrocytoma,2009
+377,42549101,Male,Pilocytic astrocytoma,2010
+397,42367731,Male,Pilocytic astrocytoma,2011
+422,42177631,Male,Pilocytic astrocytoma,2012
+431,42037054,Male,Pilocytic astrocytoma,2013
+378,41956389,Male,Pilocytic astrocytoma,2014
+378,41936220,Male,Pilocytic astrocytoma,2015
+372,41945689,Male,Pilocytic astrocytoma,2016
+423,41924375,Male,Pilocytic astrocytoma,2017
+19,41889233,Male,Pineal parenchymal,2004
+17,42367071,Male,Pineal parenchymal,2007
+16,42541971,Male,Pineal parenchymal,2008
+20,42367731,Male,Pineal parenchymal,2011
+20,42177631,Male,Pineal parenchymal,2012
+23,41956389,Male,Pineal parenchymal,2014
+19,41936220,Male,Pineal parenchymal,2015
+25,41945689,Male,Pineal parenchymal,2016
+85,41889233,Male,Pituitary,2004
+121,42006384,Male,Pituitary,2005
+95,42158997,Male,Pituitary,2006
+115,42367071,Male,Pituitary,2007
+132,42541971,Male,Pituitary,2008
+157,42609915,Male,Pituitary,2009
+139,42549101,Male,Pituitary,2010
+148,42367731,Male,Pituitary,2011
+173,42177631,Male,Pituitary,2012
+172,42037054,Male,Pituitary,2013
+194,41956389,Male,Pituitary,2014
+161,41936220,Male,Pituitary,2015
+187,41945689,Male,Pituitary,2016
+205,41924375,Male,Pituitary,2017
+127,41889233,Male,Tumors of Cranial and Spinal Nerves,2004
+124,42006384,Male,Tumors of Cranial and Spinal Nerves,2005
+172,42158997,Male,Tumors of Cranial and Spinal Nerves,2006
+162,42367071,Male,Tumors of Cranial and Spinal Nerves,2007
+148,42541971,Male,Tumors of Cranial and Spinal Nerves,2008
+156,42609915,Male,Tumors of Cranial and Spinal Nerves,2009
+140,42549101,Male,Tumors of Cranial and Spinal Nerves,2010
+148,42367731,Male,Tumors of Cranial and Spinal Nerves,2011
+155,42177631,Male,Tumors of Cranial and Spinal Nerves,2012
+155,42037054,Male,Tumors of Cranial and Spinal Nerves,2013
+148,41956389,Male,Tumors of Cranial and Spinal Nerves,2014
+148,41936220,Male,Tumors of Cranial and Spinal Nerves,2015
+171,41945689,Male,Tumors of Cranial and Spinal Nerves,2016
+103,41924375,Male,Tumors of Cranial and Spinal Nerves,2017
+232,41889233,Male,Tumors of Neuroepthelial Tissue,2004
+1364,41889233,Male,Tumors of Neuroepthelial Tissue,2004
+262,42006384,Male,Tumors of Neuroepthelial Tissue,2005
+1297,42006384,Male,Tumors of Neuroepthelial Tissue,2005
+260,42158997,Male,Tumors of Neuroepthelial Tissue,2006
+1362,42158997,Male,Tumors of Neuroepthelial Tissue,2006
+269,42367071,Male,Tumors of Neuroepthelial Tissue,2007
+1375,42367071,Male,Tumors of Neuroepthelial Tissue,2007
+279,42541971,Male,Tumors of Neuroepthelial Tissue,2008
+1442,42541971,Male,Tumors of Neuroepthelial Tissue,2008
+273,42609915,Male,Tumors of Neuroepthelial Tissue,2009
+1411,42609915,Male,Tumors of Neuroepthelial Tissue,2009
+284,42549101,Male,Tumors of Neuroepthelial Tissue,2010
+1447,42549101,Male,Tumors of Neuroepthelial Tissue,2010
+303,42367731,Male,Tumors of Neuroepthelial Tissue,2011
+1454,42367731,Male,Tumors of Neuroepthelial Tissue,2011
+322,42177631,Male,Tumors of Neuroepthelial Tissue,2012
+1445,42177631,Male,Tumors of Neuroepthelial Tissue,2012
+305,42037054,Male,Tumors of Neuroepthelial Tissue,2013
+1432,42037054,Male,Tumors of Neuroepthelial Tissue,2013
+282,41956389,Male,Tumors of Neuroepthelial Tissue,2014
+1410,41956389,Male,Tumors of Neuroepthelial Tissue,2014
+317,41936220,Male,Tumors of Neuroepthelial Tissue,2015
+1438,41936220,Male,Tumors of Neuroepthelial Tissue,2015
+352,41945689,Male,Tumors of Neuroepthelial Tissue,2016
+1379,41945689,Male,Tumors of Neuroepthelial Tissue,2016
+321,41924375,Male,Tumors of Neuroepthelial Tissue,2017
+1415,41924375,Male,Tumors of Neuroepthelial Tissue,2017
+170,41889233,Male,Tumors of Sellar Region,2004
+215,42006384,Male,Tumors of Sellar Region,2005
+176,42158997,Male,Tumors of Sellar Region,2006
+201,42367071,Male,Tumors of Sellar Region,2007
+228,42541971,Male,Tumors of Sellar Region,2008
+237,42609915,Male,Tumors of Sellar Region,2009
+222,42549101,Male,Tumors of Sellar Region,2010
+219,42367731,Male,Tumors of Sellar Region,2011
+252,42177631,Male,Tumors of Sellar Region,2012
+264,42037054,Male,Tumors of Sellar Region,2013
+299,41956389,Male,Tumors of Sellar Region,2014
+255,41936220,Male,Tumors of Sellar Region,2015
+261,41945689,Male,Tumors of Sellar Region,2016
+299,41924375,Male,Tumors of Sellar Region,2017
+76,41889233,Male,Tumors of the Meninges,2004
+85,42006384,Male,Tumors of the Meninges,2005
+83,42158997,Male,Tumors of the Meninges,2006
+83,42367071,Male,Tumors of the Meninges,2007
+88,42541971,Male,Tumors of the Meninges,2008
+96,42609915,Male,Tumors of the Meninges,2009
+92,42549101,Male,Tumors of the Meninges,2010
+124,42367731,Male,Tumors of the Meninges,2011
+129,42177631,Male,Tumors of the Meninges,2012
+105,42037054,Male,Tumors of the Meninges,2013
+114,41956389,Male,Tumors of the Meninges,2014
+122,41936220,Male,Tumors of the Meninges,2015
+108,41945689,Male,Tumors of the Meninges,2016
+125,41924375,Male,Tumors of the Meninges,2017
+61,41889233,Male,Unclassified Tumors,2004
+16,41889233,Male,Unclassified Tumors,2004
+76,42006384,Male,Unclassified Tumors,2005
+19,42006384,Male,Unclassified Tumors,2005
+89,42158997,Male,Unclassified Tumors,2006
+24,42158997,Male,Unclassified Tumors,2006
+116,42367071,Male,Unclassified Tumors,2007
+26,42367071,Male,Unclassified Tumors,2007
+92,42541971,Male,Unclassified Tumors,2008
+21,42541971,Male,Unclassified Tumors,2008
+147,42609915,Male,Unclassified Tumors,2009
+23,42609915,Male,Unclassified Tumors,2009
+133,42549101,Male,Unclassified Tumors,2010
+18,42549101,Male,Unclassified Tumors,2010
+137,42367731,Male,Unclassified Tumors,2011
+16,42367731,Male,Unclassified Tumors,2011
+124,42177631,Male,Unclassified Tumors,2012
+32,42177631,Male,Unclassified Tumors,2012
+124,42037054,Male,Unclassified Tumors,2013
+19,42037054,Male,Unclassified Tumors,2013
+128,41956389,Male,Unclassified Tumors,2014
+26,41956389,Male,Unclassified Tumors,2014
+114,41936220,Male,Unclassified Tumors,2015
+21,41936220,Male,Unclassified Tumors,2015
+148,41945689,Male,Unclassified Tumors,2016
+22,41945689,Male,Unclassified Tumors,2016
+120,41924375,Male,Unclassified Tumors,2017
+30,41924375,Male,Unclassified Tumors,2017
+31,41889233,Male,Unique astrocytoma variants,2004
+37,42006384,Male,Unique astrocytoma variants,2005
+26,42158997,Male,Unique astrocytoma variants,2006
+19,42158997,Male,Unique astrocytoma variants,2006
+31,42367071,Male,Unique astrocytoma variants,2007
+23,42367071,Male,Unique astrocytoma variants,2007
+40,42541971,Male,Unique astrocytoma variants,2008
+19,42541971,Male,Unique astrocytoma variants,2008
+42,42609915,Male,Unique astrocytoma variants,2009
+24,42609915,Male,Unique astrocytoma variants,2009
+30,42549101,Male,Unique astrocytoma variants,2010
+16,42549101,Male,Unique astrocytoma variants,2010
+43,42367731,Male,Unique astrocytoma variants,2011
+28,42367731,Male,Unique astrocytoma variants,2011
+40,42177631,Male,Unique astrocytoma variants,2012
+25,42177631,Male,Unique astrocytoma variants,2012
+38,42037054,Male,Unique astrocytoma variants,2013
+26,42037054,Male,Unique astrocytoma variants,2013
+43,41956389,Male,Unique astrocytoma variants,2014
+26,41956389,Male,Unique astrocytoma variants,2014
+26,41936220,Male,Unique astrocytoma variants,2015
+26,41936220,Male,Unique astrocytoma variants,2015
+31,41945689,Male,Unique astrocytoma variants,2016
+26,41945689,Male,Unique astrocytoma variants,2016
+27,41924375,Male,Unique astrocytoma variants,2017
+17,41924375,Male,Unique astrocytoma variants,2017
+18,110320645,Female,All other,2005
+23,111567226,Female,All other,2006
+19,112783993,Female,All other,2007
+18,115293599,Female,All other,2009
+20,116616265,Female,All other,2010
+20,116616265,Female,All other,2010
+21,117908205,Female,All other,2011
+20,119171985,Female,All other,2012
+22,120333643,Female,All other,2013
+22,121537081,Female,All other,2014
+20,122685213,Female,All other,2015
+27,122685213,Female,All other,2015
+30,123817960,Female,All other,2016
+26,123817960,Female,All other,2016
+28,124879836,Female,All other,2017
+30,124879836,Female,All other,2017
+566,109112165,Female,Anaplastic astrocytoma,2004
+514,110320645,Female,Anaplastic astrocytoma,2005
+511,111567226,Female,Anaplastic astrocytoma,2006
+529,112783993,Female,Anaplastic astrocytoma,2007
+503,114027722,Female,Anaplastic astrocytoma,2008
+501,115293599,Female,Anaplastic astrocytoma,2009
+572,116616265,Female,Anaplastic astrocytoma,2010
+571,117908205,Female,Anaplastic astrocytoma,2011
+586,119171985,Female,Anaplastic astrocytoma,2012
+639,120333643,Female,Anaplastic astrocytoma,2013
+612,121537081,Female,Anaplastic astrocytoma,2014
+699,122685213,Female,Anaplastic astrocytoma,2015
+637,123817960,Female,Anaplastic astrocytoma,2016
+660,124879836,Female,Anaplastic astrocytoma,2017
+183,109112165,Female,Anaplastic oligodendroglioma,2004
+166,110320645,Female,Anaplastic oligodendroglioma,2005
+137,111567226,Female,Anaplastic oligodendroglioma,2006
+158,112783993,Female,Anaplastic oligodendroglioma,2007
+170,114027722,Female,Anaplastic oligodendroglioma,2008
+145,115293599,Female,Anaplastic oligodendroglioma,2009
+134,116616265,Female,Anaplastic oligodendroglioma,2010
+153,117908205,Female,Anaplastic oligodendroglioma,2011
+169,119171985,Female,Anaplastic oligodendroglioma,2012
+153,120333643,Female,Anaplastic oligodendroglioma,2013
+151,121537081,Female,Anaplastic oligodendroglioma,2014
+164,122685213,Female,Anaplastic oligodendroglioma,2015
+168,123817960,Female,Anaplastic oligodendroglioma,2016
+179,124879836,Female,Anaplastic oligodendroglioma,2017
+570,109112165,Female,"Astrocytoma, NOS",2004
+564,110320645,Female,"Astrocytoma, NOS",2005
+539,111567226,Female,"Astrocytoma, NOS",2006
+534,112783993,Female,"Astrocytoma, NOS",2007
+494,114027722,Female,"Astrocytoma, NOS",2008
+480,115293599,Female,"Astrocytoma, NOS",2009
+477,116616265,Female,"Astrocytoma, NOS",2010
+461,117908205,Female,"Astrocytoma, NOS",2011
+492,119171985,Female,"Astrocytoma, NOS",2012
+447,120333643,Female,"Astrocytoma, NOS",2013
+487,121537081,Female,"Astrocytoma, NOS",2014
+515,122685213,Female,"Astrocytoma, NOS",2015
+565,123817960,Female,"Astrocytoma, NOS",2016
+496,124879836,Female,"Astrocytoma, NOS",2017
+39,109112165,Female,Choroid plexus,2004
+38,110320645,Female,Choroid plexus,2005
+42,111567226,Female,Choroid plexus,2006
+55,112783993,Female,Choroid plexus,2007
+49,114027722,Female,Choroid plexus,2008
+45,115293599,Female,Choroid plexus,2009
+50,116616265,Female,Choroid plexus,2010
+52,117908205,Female,Choroid plexus,2011
+40,119171985,Female,Choroid plexus,2012
+48,120333643,Female,Choroid plexus,2013
+47,121537081,Female,Choroid plexus,2014
+46,122685213,Female,Choroid plexus,2015
+41,123817960,Female,Choroid plexus,2016
+38,124879836,Female,Choroid plexus,2017
+204,109112165,Female,Craniopharyngioma,2004
+185,110320645,Female,Craniopharyngioma,2005
+201,111567226,Female,Craniopharyngioma,2006
+220,112783993,Female,Craniopharyngioma,2007
+225,114027722,Female,Craniopharyngioma,2008
+230,115293599,Female,Craniopharyngioma,2009
+238,116616265,Female,Craniopharyngioma,2010
+221,117908205,Female,Craniopharyngioma,2011
+224,119171985,Female,Craniopharyngioma,2012
+244,120333643,Female,Craniopharyngioma,2013
+223,121537081,Female,Craniopharyngioma,2014
+235,122685213,Female,Craniopharyngioma,2015
+215,123817960,Female,Craniopharyngioma,2016
+231,124879836,Female,Craniopharyngioma,2017
+113,109112165,Female,Diffuse astrocytoma,2004
+130,110320645,Female,Diffuse astrocytoma,2005
+94,111567226,Female,Diffuse astrocytoma,2006
+133,112783993,Female,Diffuse astrocytoma,2007
+130,114027722,Female,Diffuse astrocytoma,2008
+161,115293599,Female,Diffuse astrocytoma,2009
+162,116616265,Female,Diffuse astrocytoma,2010
+114,117908205,Female,Diffuse astrocytoma,2011
+94,119171985,Female,Diffuse astrocytoma,2012
+71,120333643,Female,Diffuse astrocytoma,2013
+63,121537081,Female,Diffuse astrocytoma,2014
+35,122685213,Female,Diffuse astrocytoma,2015
+69,109112165,Female,Embryonal/primitive/medulloblastoma,2004
+85,110320645,Female,Embryonal/primitive/medulloblastoma,2005
+74,111567226,Female,Embryonal/primitive/medulloblastoma,2006
+92,112783993,Female,Embryonal/primitive/medulloblastoma,2007
+89,114027722,Female,Embryonal/primitive/medulloblastoma,2008
+104,115293599,Female,Embryonal/primitive/medulloblastoma,2009
+73,116616265,Female,Embryonal/primitive/medulloblastoma,2010
+69,117908205,Female,Embryonal/primitive/medulloblastoma,2011
+81,119171985,Female,Embryonal/primitive/medulloblastoma,2012
+88,120333643,Female,Embryonal/primitive/medulloblastoma,2013
+73,121537081,Female,Embryonal/primitive/medulloblastoma,2014
+68,122685213,Female,Embryonal/primitive/medulloblastoma,2015
+63,123817960,Female,Embryonal/primitive/medulloblastoma,2016
+63,124879836,Female,Embryonal/primitive/medulloblastoma,2017
+105,109112165,Female,Ependymoma variants,2004
+120,110320645,Female,Ependymoma variants,2005
+149,111567226,Female,Ependymoma variants,2006
+114,112783993,Female,Ependymoma variants,2007
+110,114027722,Female,Ependymoma variants,2008
+113,115293599,Female,Ependymoma variants,2009
+122,116616265,Female,Ependymoma variants,2010
+118,117908205,Female,Ependymoma variants,2011
+130,119171985,Female,Ependymoma variants,2012
+118,120333643,Female,Ependymoma variants,2013
+131,121537081,Female,Ependymoma variants,2014
+133,122685213,Female,Ependymoma variants,2015
+122,123817960,Female,Ependymoma variants,2016
+111,124879836,Female,Ependymoma variants,2017
+293,109112165,Female,Ependymoma/anaplastic ependymoma,2004
+302,110320645,Female,Ependymoma/anaplastic ependymoma,2005
+294,111567226,Female,Ependymoma/anaplastic ependymoma,2006
+295,112783993,Female,Ependymoma/anaplastic ependymoma,2007
+313,114027722,Female,Ependymoma/anaplastic ependymoma,2008
+345,115293599,Female,Ependymoma/anaplastic ependymoma,2009
+296,116616265,Female,Ependymoma/anaplastic ependymoma,2010
+297,117908205,Female,Ependymoma/anaplastic ependymoma,2011
+303,119171985,Female,Ependymoma/anaplastic ependymoma,2012
+275,120333643,Female,Ependymoma/anaplastic ependymoma,2013
+243,121537081,Female,Ependymoma/anaplastic ependymoma,2014
+274,122685213,Female,Ependymoma/anaplastic ependymoma,2015
+268,123817960,Female,Ependymoma/anaplastic ependymoma,2016
+275,124879836,Female,Ependymoma/anaplastic ependymoma,2017
+17,109112165,Female,Germ Cell Tumors,2004
+36,110320645,Female,Germ Cell Tumors,2005
+36,111567226,Female,Germ Cell Tumors,2006
+36,112783993,Female,Germ Cell Tumors,2007
+33,114027722,Female,Germ Cell Tumors,2008
+43,115293599,Female,Germ Cell Tumors,2009
+32,116616265,Female,Germ Cell Tumors,2010
+37,117908205,Female,Germ Cell Tumors,2011
+32,119171985,Female,Germ Cell Tumors,2012
+25,120333643,Female,Germ Cell Tumors,2013
+32,121537081,Female,Germ Cell Tumors,2014
+32,122685213,Female,Germ Cell Tumors,2015
+29,123817960,Female,Germ Cell Tumors,2016
+21,124879836,Female,Germ Cell Tumors,2017
+4095,109112165,Female,Glioblastoma,2004
+4161,110320645,Female,Glioblastoma,2005
+4293,111567226,Female,Glioblastoma,2006
+4371,112783993,Female,Glioblastoma,2007
+4404,114027722,Female,Glioblastoma,2008
+4481,115293599,Female,Glioblastoma,2009
+4616,116616265,Female,Glioblastoma,2010
+4587,117908205,Female,Glioblastoma,2011
+4865,119171985,Female,Glioblastoma,2012
+4915,120333643,Female,Glioblastoma,2013
+4790,121537081,Female,Glioblastoma,2014
+5119,122685213,Female,Glioblastoma,2015
+5193,123817960,Female,Glioblastoma,2016
+5145,124879836,Female,Glioblastoma,2017
+423,109112165,Female,"Glioma malignant, NOS",2004
+392,110320645,Female,"Glioma malignant, NOS",2005
+398,111567226,Female,"Glioma malignant, NOS",2006
+413,112783993,Female,"Glioma malignant, NOS",2007
+445,114027722,Female,"Glioma malignant, NOS",2008
+512,115293599,Female,"Glioma malignant, NOS",2009
+411,116616265,Female,"Glioma malignant, NOS",2010
+450,117908205,Female,"Glioma malignant, NOS",2011
+17,119171985,Female,"Glioma malignant, NOS",2012
+437,119171985,Female,"Glioma malignant, NOS",2012
+18,120333643,Female,"Glioma malignant, NOS",2013
+457,120333643,Female,"Glioma malignant, NOS",2013
+25,121537081,Female,"Glioma malignant, NOS",2014
+444,121537081,Female,"Glioma malignant, NOS",2014
+27,122685213,Female,"Glioma malignant, NOS",2015
+514,122685213,Female,"Glioma malignant, NOS",2015
+19,123817960,Female,"Glioma malignant, NOS",2016
+520,123817960,Female,"Glioma malignant, NOS",2016
+28,124879836,Female,"Glioma malignant, NOS",2017
+518,124879836,Female,"Glioma malignant, NOS",2017
+206,109112165,Female,Hemangioblastoma,2004
+230,110320645,Female,Hemangioblastoma,2005
+222,111567226,Female,Hemangioblastoma,2006
+217,112783993,Female,Hemangioblastoma,2007
+239,114027722,Female,Hemangioblastoma,2008
+237,115293599,Female,Hemangioblastoma,2009
+225,116616265,Female,Hemangioblastoma,2010
+246,117908205,Female,Hemangioblastoma,2011
+257,119171985,Female,Hemangioblastoma,2012
+235,120333643,Female,Hemangioblastoma,2013
+217,121537081,Female,Hemangioblastoma,2014
+243,122685213,Female,Hemangioblastoma,2015
+261,123817960,Female,Hemangioblastoma,2016
+211,124879836,Female,Hemangioblastoma,2017
+235,109112165,Female,Hemangioma,2004
+286,110320645,Female,Hemangioma,2005
+319,111567226,Female,Hemangioma,2006
+368,112783993,Female,Hemangioma,2007
+469,114027722,Female,Hemangioma,2008
+526,115293599,Female,Hemangioma,2009
+655,116616265,Female,Hemangioma,2010
+715,117908205,Female,Hemangioma,2011
+715,119171985,Female,Hemangioma,2012
+723,120333643,Female,Hemangioma,2013
+648,121537081,Female,Hemangioma,2014
+566,122685213,Female,Hemangioma,2015
+526,123817960,Female,Hemangioma,2016
+474,124879836,Female,Hemangioma,2017
+24,109112165,Female,Local Extensions from Regional Tumors,2004
+22,110320645,Female,Local Extensions from Regional Tumors,2005
+18,111567226,Female,Local Extensions from Regional Tumors,2006
+25,112783993,Female,Local Extensions from Regional Tumors,2007
+22,114027722,Female,Local Extensions from Regional Tumors,2008
+24,115293599,Female,Local Extensions from Regional Tumors,2009
+24,116616265,Female,Local Extensions from Regional Tumors,2010
+20,117908205,Female,Local Extensions from Regional Tumors,2011
+20,119171985,Female,Local Extensions from Regional Tumors,2012
+26,121537081,Female,Local Extensions from Regional Tumors,2014
+19,122685213,Female,Local Extensions from Regional Tumors,2015
+16,123817960,Female,Local Extensions from Regional Tumors,2016
+591,109112165,Female,Lymphomas and Hematopoietic Neoplasms,2004
+662,110320645,Female,Lymphomas and Hematopoietic Neoplasms,2005
+674,111567226,Female,Lymphomas and Hematopoietic Neoplasms,2006
+640,112783993,Female,Lymphomas and Hematopoietic Neoplasms,2007
+701,114027722,Female,Lymphomas and Hematopoietic Neoplasms,2008
+665,115293599,Female,Lymphomas and Hematopoietic Neoplasms,2009
+749,116616265,Female,Lymphomas and Hematopoietic Neoplasms,2010
+718,117908205,Female,Lymphomas and Hematopoietic Neoplasms,2011
+705,119171985,Female,Lymphomas and Hematopoietic Neoplasms,2012
+741,120333643,Female,Lymphomas and Hematopoietic Neoplasms,2013
+816,121537081,Female,Lymphomas and Hematopoietic Neoplasms,2014
+757,122685213,Female,Lymphomas and Hematopoietic Neoplasms,2015
+831,123817960,Female,Lymphomas and Hematopoietic Neoplasms,2016
+828,124879836,Female,Lymphomas and Hematopoietic Neoplasms,2017
+14154,109112165,Female,Meningioma,2004
+272,109112165,Female,Meningioma,2004
+16224,110320645,Female,Meningioma,2005
+280,110320645,Female,Meningioma,2005
+17268,111567226,Female,Meningioma,2006
+252,111567226,Female,Meningioma,2006
+18179,112783993,Female,Meningioma,2007
+270,112783993,Female,Meningioma,2007
+19444,114027722,Female,Meningioma,2008
+217,114027722,Female,Meningioma,2008
+21050,115293599,Female,Meningioma,2009
+200,115293599,Female,Meningioma,2009
+20634,116616265,Female,Meningioma,2010
+206,116616265,Female,Meningioma,2010
+21018,117908205,Female,Meningioma,2011
+186,117908205,Female,Meningioma,2011
+21787,119171985,Female,Meningioma,2012
+202,119171985,Female,Meningioma,2012
+22189,120333643,Female,Meningioma,2013
+223,120333643,Female,Meningioma,2013
+22992,121537081,Female,Meningioma,2014
+218,121537081,Female,Meningioma,2014
+23841,122685213,Female,Meningioma,2015
+196,122685213,Female,Meningioma,2015
+24189,123817960,Female,Meningioma,2016
+164,123817960,Female,Meningioma,2016
+24124,124879836,Female,Meningioma,2017
+173,124879836,Female,Meningioma,2017
+197,109112165,Female,Mixed glioma,2004
+236,110320645,Female,Mixed glioma,2005
+273,111567226,Female,Mixed glioma,2006
+239,112783993,Female,Mixed glioma,2007
+263,114027722,Female,Mixed glioma,2008
+286,115293599,Female,Mixed glioma,2009
+270,116616265,Female,Mixed glioma,2010
+272,117908205,Female,Mixed glioma,2011
+242,119171985,Female,Mixed glioma,2012
+248,120333643,Female,Mixed glioma,2013
+199,121537081,Female,Mixed glioma,2014
+130,122685213,Female,Mixed glioma,2015
+42,123817960,Female,Mixed glioma,2016
+31,124879836,Female,Mixed glioma,2017
+687,109112165,Female,"Neoplasm, unspecified",2004
+703,109112165,Female,"Neoplasm, unspecified",2004
+869,110320645,Female,"Neoplasm, unspecified",2005
+719,110320645,Female,"Neoplasm, unspecified",2005
+803,111567226,Female,"Neoplasm, unspecified",2006
+721,111567226,Female,"Neoplasm, unspecified",2006
+836,112783993,Female,"Neoplasm, unspecified",2007
+652,112783993,Female,"Neoplasm, unspecified",2007
+835,114027722,Female,"Neoplasm, unspecified",2008
+751,114027722,Female,"Neoplasm, unspecified",2008
+919,115293599,Female,"Neoplasm, unspecified",2009
+785,115293599,Female,"Neoplasm, unspecified",2009
+819,116616265,Female,"Neoplasm, unspecified",2010
+650,116616265,Female,"Neoplasm, unspecified",2010
+839,117908205,Female,"Neoplasm, unspecified",2011
+647,117908205,Female,"Neoplasm, unspecified",2011
+872,119171985,Female,"Neoplasm, unspecified",2012
+654,119171985,Female,"Neoplasm, unspecified",2012
+797,120333643,Female,"Neoplasm, unspecified",2013
+664,120333643,Female,"Neoplasm, unspecified",2013
+868,121537081,Female,"Neoplasm, unspecified",2014
+738,121537081,Female,"Neoplasm, unspecified",2014
+837,122685213,Female,"Neoplasm, unspecified",2015
+726,122685213,Female,"Neoplasm, unspecified",2015
+757,123817960,Female,"Neoplasm, unspecified",2016
+601,123817960,Female,"Neoplasm, unspecified",2016
+699,124879836,Female,"Neoplasm, unspecified",2017
+653,124879836,Female,"Neoplasm, unspecified",2017
+2555,109112165,Female,"Nerve sheath, benign and malignant",2004
+19,109112165,Female,"Nerve sheath, benign and malignant",2004
+2827,110320645,Female,"Nerve sheath, benign and malignant",2005
+22,110320645,Female,"Nerve sheath, benign and malignant",2005
+2949,111567226,Female,"Nerve sheath, benign and malignant",2006
+22,111567226,Female,"Nerve sheath, benign and malignant",2006
+2953,112783993,Female,"Nerve sheath, benign and malignant",2007
+39,112783993,Female,"Nerve sheath, benign and malignant",2007
+3079,114027722,Female,"Nerve sheath, benign and malignant",2008
+26,114027722,Female,"Nerve sheath, benign and malignant",2008
+3235,115293599,Female,"Nerve sheath, benign and malignant",2009
+16,115293599,Female,"Nerve sheath, benign and malignant",2009
+3034,116616265,Female,"Nerve sheath, benign and malignant",2010
+22,116616265,Female,"Nerve sheath, benign and malignant",2010
+3278,117908205,Female,"Nerve sheath, benign and malignant",2011
+20,117908205,Female,"Nerve sheath, benign and malignant",2011
+3472,119171985,Female,"Nerve sheath, benign and malignant",2012
+26,119171985,Female,"Nerve sheath, benign and malignant",2012
+3626,120333643,Female,"Nerve sheath, benign and malignant",2013
+22,120333643,Female,"Nerve sheath, benign and malignant",2013
+3747,121537081,Female,"Nerve sheath, benign and malignant",2014
+17,121537081,Female,"Nerve sheath, benign and malignant",2014
+3772,122685213,Female,"Nerve sheath, benign and malignant",2015
+23,122685213,Female,"Nerve sheath, benign and malignant",2015
+3644,123817960,Female,"Nerve sheath, benign and malignant",2016
+25,123817960,Female,"Nerve sheath, benign and malignant",2016
+3402,124879836,Female,"Nerve sheath, benign and malignant",2017
+19,124879836,Female,"Nerve sheath, benign and malignant",2017
+19,109112165,Female,Neuroepithelial,2004
+23,110320645,Female,Neuroepithelial,2005
+16,111567226,Female,Neuroepithelial,2006
+20,112783993,Female,Neuroepithelial,2007
+27,114027722,Female,Neuroepithelial,2008
+21,115293599,Female,Neuroepithelial,2009
+26,116616265,Female,Neuroepithelial,2010
+23,117908205,Female,Neuroepithelial,2011
+27,119171985,Female,Neuroepithelial,2012
+21,120333643,Female,Neuroepithelial,2013
+22,121537081,Female,Neuroepithelial,2014
+37,122685213,Female,Neuroepithelial,2015
+22,123817960,Female,Neuroepithelial,2016
+154,109112165,Female,"Neuronal/glial, neuronal",2004
+184,110320645,Female,"Neuronal/glial, neuronal",2005
+19,110320645,Female,"Neuronal/glial, neuronal",2005
+187,111567226,Female,"Neuronal/glial, neuronal",2006
+18,111567226,Female,"Neuronal/glial, neuronal",2006
+205,112783993,Female,"Neuronal/glial, neuronal",2007
+23,112783993,Female,"Neuronal/glial, neuronal",2007
+203,114027722,Female,"Neuronal/glial, neuronal",2008
+24,114027722,Female,"Neuronal/glial, neuronal",2008
+222,115293599,Female,"Neuronal/glial, neuronal",2009
+21,115293599,Female,"Neuronal/glial, neuronal",2009
+248,116616265,Female,"Neuronal/glial, neuronal",2010
+19,116616265,Female,"Neuronal/glial, neuronal",2010
+239,117908205,Female,"Neuronal/glial, neuronal",2011
+18,117908205,Female,"Neuronal/glial, neuronal",2011
+211,119171985,Female,"Neuronal/glial, neuronal",2012
+20,119171985,Female,"Neuronal/glial, neuronal",2012
+182,120333643,Female,"Neuronal/glial, neuronal",2013
+234,121537081,Female,"Neuronal/glial, neuronal",2014
+226,122685213,Female,"Neuronal/glial, neuronal",2015
+236,123817960,Female,"Neuronal/glial, neuronal",2016
+27,123817960,Female,"Neuronal/glial, neuronal",2016
+250,124879836,Female,"Neuronal/glial, neuronal",2017
+21,124879836,Female,"Neuronal/glial, neuronal",2017
+355,109112165,Female,Oligodendroglioma,2004
+361,110320645,Female,Oligodendroglioma,2005
+379,111567226,Female,Oligodendroglioma,2006
+373,112783993,Female,Oligodendroglioma,2007
+364,114027722,Female,Oligodendroglioma,2008
+364,115293599,Female,Oligodendroglioma,2009
+330,116616265,Female,Oligodendroglioma,2010
+321,117908205,Female,Oligodendroglioma,2011
+296,119171985,Female,Oligodendroglioma,2012
+343,120333643,Female,Oligodendroglioma,2013
+305,121537081,Female,Oligodendroglioma,2014
+307,122685213,Female,Oligodendroglioma,2015
+329,123817960,Female,Oligodendroglioma,2016
+308,124879836,Female,Oligodendroglioma,2017
+68,109112165,Female,Other mesenchymal,2004
+26,109112165,Female,Other mesenchymal,2004
+83,110320645,Female,Other mesenchymal,2005
+27,110320645,Female,Other mesenchymal,2005
+87,111567226,Female,Other mesenchymal,2006
+28,111567226,Female,Other mesenchymal,2006
+83,112783993,Female,Other mesenchymal,2007
+38,112783993,Female,Other mesenchymal,2007
+103,114027722,Female,Other mesenchymal,2008
+51,114027722,Female,Other mesenchymal,2008
+96,115293599,Female,Other mesenchymal,2009
+25,115293599,Female,Other mesenchymal,2009
+95,116616265,Female,Other mesenchymal,2010
+35,116616265,Female,Other mesenchymal,2010
+92,117908205,Female,Other mesenchymal,2011
+31,117908205,Female,Other mesenchymal,2011
+108,119171985,Female,Other mesenchymal,2012
+39,119171985,Female,Other mesenchymal,2012
+104,120333643,Female,Other mesenchymal,2013
+40,120333643,Female,Other mesenchymal,2013
+94,121537081,Female,Other mesenchymal,2014
+33,121537081,Female,Other mesenchymal,2014
+91,122685213,Female,Other mesenchymal,2015
+37,122685213,Female,Other mesenchymal,2015
+78,123817960,Female,Other mesenchymal,2016
+39,123817960,Female,Other mesenchymal,2016
+103,124879836,Female,Other mesenchymal,2017
+60,124879836,Female,Other mesenchymal,2017
+125,109112165,Female,Pilocytic astrocytoma,2004
+150,110320645,Female,Pilocytic astrocytoma,2005
+148,111567226,Female,Pilocytic astrocytoma,2006
+165,112783993,Female,Pilocytic astrocytoma,2007
+145,114027722,Female,Pilocytic astrocytoma,2008
+135,115293599,Female,Pilocytic astrocytoma,2009
+166,116616265,Female,Pilocytic astrocytoma,2010
+161,117908205,Female,Pilocytic astrocytoma,2011
+122,119171985,Female,Pilocytic astrocytoma,2012
+156,120333643,Female,Pilocytic astrocytoma,2013
+147,121537081,Female,Pilocytic astrocytoma,2014
+145,122685213,Female,Pilocytic astrocytoma,2015
+136,123817960,Female,Pilocytic astrocytoma,2016
+124,124879836,Female,Pilocytic astrocytoma,2017
+18,109112165,Female,Pineal parenchymal,2004
+16,109112165,Female,Pineal parenchymal,2004
+34,110320645,Female,Pineal parenchymal,2005
+28,111567226,Female,Pineal parenchymal,2006
+22,111567226,Female,Pineal parenchymal,2006
+32,112783993,Female,Pineal parenchymal,2007
+27,112783993,Female,Pineal parenchymal,2007
+45,114027722,Female,Pineal parenchymal,2008
+22,114027722,Female,Pineal parenchymal,2008
+31,115293599,Female,Pineal parenchymal,2009
+29,115293599,Female,Pineal parenchymal,2009
+42,116616265,Female,Pineal parenchymal,2010
+23,116616265,Female,Pineal parenchymal,2010
+46,117908205,Female,Pineal parenchymal,2011
+26,117908205,Female,Pineal parenchymal,2011
+36,119171985,Female,Pineal parenchymal,2012
+22,119171985,Female,Pineal parenchymal,2012
+54,120333643,Female,Pineal parenchymal,2013
+34,120333643,Female,Pineal parenchymal,2013
+44,121537081,Female,Pineal parenchymal,2014
+18,121537081,Female,Pineal parenchymal,2014
+51,122685213,Female,Pineal parenchymal,2015
+31,122685213,Female,Pineal parenchymal,2015
+35,123817960,Female,Pineal parenchymal,2016
+28,123817960,Female,Pineal parenchymal,2016
+36,124879836,Female,Pineal parenchymal,2017
+25,124879836,Female,Pineal parenchymal,2017
+4127,109112165,Female,Pituitary,2004
+25,109112165,Female,Pituitary,2004
+4808,110320645,Female,Pituitary,2005
+24,110320645,Female,Pituitary,2005
+5291,111567226,Female,Pituitary,2006
+5493,112783993,Female,Pituitary,2007
+5923,114027722,Female,Pituitary,2008
+6520,115293599,Female,Pituitary,2009
+17,115293599,Female,Pituitary,2009
+6516,116616265,Female,Pituitary,2010
+16,116616265,Female,Pituitary,2010
+6703,117908205,Female,Pituitary,2011
+7126,119171985,Female,Pituitary,2012
+7051,120333643,Female,Pituitary,2013
+7169,121537081,Female,Pituitary,2014
+7408,122685213,Female,Pituitary,2015
+7331,123817960,Female,Pituitary,2016
+7320,124879836,Female,Pituitary,2017
+2555,109112165,Female,Tumors of Cranial and Spinal Nerves,2004
+19,109112165,Female,Tumors of Cranial and Spinal Nerves,2004
+2830,110320645,Female,Tumors of Cranial and Spinal Nerves,2005
+22,110320645,Female,Tumors of Cranial and Spinal Nerves,2005
+2950,111567226,Female,Tumors of Cranial and Spinal Nerves,2006
+22,111567226,Female,Tumors of Cranial and Spinal Nerves,2006
+2954,112783993,Female,Tumors of Cranial and Spinal Nerves,2007
+39,112783993,Female,Tumors of Cranial and Spinal Nerves,2007
+3081,114027722,Female,Tumors of Cranial and Spinal Nerves,2008
+26,114027722,Female,Tumors of Cranial and Spinal Nerves,2008
+3238,115293599,Female,Tumors of Cranial and Spinal Nerves,2009
+16,115293599,Female,Tumors of Cranial and Spinal Nerves,2009
+3037,116616265,Female,Tumors of Cranial and Spinal Nerves,2010
+22,116616265,Female,Tumors of Cranial and Spinal Nerves,2010
+3280,117908205,Female,Tumors of Cranial and Spinal Nerves,2011
+20,117908205,Female,Tumors of Cranial and Spinal Nerves,2011
+3472,119171985,Female,Tumors of Cranial and Spinal Nerves,2012
+26,119171985,Female,Tumors of Cranial and Spinal Nerves,2012
+3627,120333643,Female,Tumors of Cranial and Spinal Nerves,2013
+22,120333643,Female,Tumors of Cranial and Spinal Nerves,2013
+3753,121537081,Female,Tumors of Cranial and Spinal Nerves,2014
+17,121537081,Female,Tumors of Cranial and Spinal Nerves,2014
+3775,122685213,Female,Tumors of Cranial and Spinal Nerves,2015
+23,122685213,Female,Tumors of Cranial and Spinal Nerves,2015
+3648,123817960,Female,Tumors of Cranial and Spinal Nerves,2016
+25,123817960,Female,Tumors of Cranial and Spinal Nerves,2016
+3403,124879836,Female,Tumors of Cranial and Spinal Nerves,2017
+19,124879836,Female,Tumors of Cranial and Spinal Nerves,2017
+381,109112165,Female,Tumors of Neuroepthelial Tissue,2004
+7059,109112165,Female,Tumors of Neuroepthelial Tissue,2004
+442,110320645,Female,Tumors of Neuroepthelial Tissue,2005
+7147,110320645,Female,Tumors of Neuroepthelial Tissue,2005
+484,111567226,Female,Tumors of Neuroepthelial Tissue,2006
+7230,111567226,Female,Tumors of Neuroepthelial Tissue,2006
+484,112783993,Female,Tumors of Neuroepthelial Tissue,2007
+7394,112783993,Female,Tumors of Neuroepthelial Tissue,2007
+489,114027722,Female,Tumors of Neuroepthelial Tissue,2008
+7422,114027722,Female,Tumors of Neuroepthelial Tissue,2008
+513,115293599,Female,Tumors of Neuroepthelial Tissue,2009
+7622,115293599,Female,Tumors of Neuroepthelial Tissue,2009
+547,116616265,Female,Tumors of Neuroepthelial Tissue,2010
+7600,116616265,Female,Tumors of Neuroepthelial Tissue,2010
+560,117908205,Female,Tumors of Neuroepthelial Tissue,2011
+7556,117908205,Female,Tumors of Neuroepthelial Tissue,2011
+541,119171985,Female,Tumors of Neuroepthelial Tissue,2012
+7795,119171985,Female,Tumors of Neuroepthelial Tissue,2012
+525,120333643,Female,Tumors of Neuroepthelial Tissue,2013
+7892,120333643,Female,Tumors of Neuroepthelial Tissue,2013
+593,121537081,Female,Tumors of Neuroepthelial Tissue,2014
+7611,121537081,Female,Tumors of Neuroepthelial Tissue,2014
+602,122685213,Female,Tumors of Neuroepthelial Tissue,2015
+8078,122685213,Female,Tumors of Neuroepthelial Tissue,2015
+570,123817960,Female,Tumors of Neuroepthelial Tissue,2016
+8050,123817960,Female,Tumors of Neuroepthelial Tissue,2016
+567,124879836,Female,Tumors of Neuroepthelial Tissue,2017
+7905,124879836,Female,Tumors of Neuroepthelial Tissue,2017
+4331,109112165,Female,Tumors of Sellar Region,2004
+25,109112165,Female,Tumors of Sellar Region,2004
+4993,110320645,Female,Tumors of Sellar Region,2005
+25,110320645,Female,Tumors of Sellar Region,2005
+5492,111567226,Female,Tumors of Sellar Region,2006
+5713,112783993,Female,Tumors of Sellar Region,2007
+6148,114027722,Female,Tumors of Sellar Region,2008
+6750,115293599,Female,Tumors of Sellar Region,2009
+18,115293599,Female,Tumors of Sellar Region,2009
+6754,116616265,Female,Tumors of Sellar Region,2010
+16,116616265,Female,Tumors of Sellar Region,2010
+6924,117908205,Female,Tumors of Sellar Region,2011
+7350,119171985,Female,Tumors of Sellar Region,2012
+7295,120333643,Female,Tumors of Sellar Region,2013
+16,120333643,Female,Tumors of Sellar Region,2013
+7392,121537081,Female,Tumors of Sellar Region,2014
+7643,122685213,Female,Tumors of Sellar Region,2015
+7546,123817960,Female,Tumors of Sellar Region,2016
+7551,124879836,Female,Tumors of Sellar Region,2017
+14428,109112165,Female,Tumors of the Meninges,2004
+298,109112165,Female,Tumors of the Meninges,2004
+16537,110320645,Female,Tumors of the Meninges,2005
+307,110320645,Female,Tumors of the Meninges,2005
+17577,111567226,Female,Tumors of the Meninges,2006
+283,111567226,Female,Tumors of the Meninges,2006
+18479,112783993,Female,Tumors of the Meninges,2007
+310,112783993,Female,Tumors of the Meninges,2007
+19786,114027722,Female,Tumors of the Meninges,2008
+269,114027722,Female,Tumors of the Meninges,2008
+21383,115293599,Female,Tumors of the Meninges,2009
+227,115293599,Female,Tumors of the Meninges,2009
+20954,116616265,Female,Tumors of the Meninges,2010
+241,116616265,Female,Tumors of the Meninges,2010
+21356,117908205,Female,Tumors of the Meninges,2011
+217,117908205,Female,Tumors of the Meninges,2011
+22152,119171985,Female,Tumors of the Meninges,2012
+241,119171985,Female,Tumors of the Meninges,2012
+22528,120333643,Female,Tumors of the Meninges,2013
+267,120333643,Female,Tumors of the Meninges,2013
+23303,121537081,Female,Tumors of the Meninges,2014
+256,121537081,Female,Tumors of the Meninges,2014
+24175,122685213,Female,Tumors of the Meninges,2015
+237,122685213,Female,Tumors of the Meninges,2015
+24528,123817960,Female,Tumors of the Meninges,2016
+206,123817960,Female,Tumors of the Meninges,2016
+24438,124879836,Female,Tumors of the Meninges,2017
+235,124879836,Female,Tumors of the Meninges,2017
+926,109112165,Female,Unclassified Tumors,2004
+709,109112165,Female,Unclassified Tumors,2004
+1159,110320645,Female,Unclassified Tumors,2005
+723,110320645,Female,Unclassified Tumors,2005
+1130,111567226,Female,Unclassified Tumors,2006
+726,111567226,Female,Unclassified Tumors,2006
+1208,112783993,Female,Unclassified Tumors,2007
+655,112783993,Female,Unclassified Tumors,2007
+1310,114027722,Female,Unclassified Tumors,2008
+765,114027722,Female,Unclassified Tumors,2008
+1446,115293599,Female,Unclassified Tumors,2009
+792,115293599,Female,Unclassified Tumors,2009
+1477,116616265,Female,Unclassified Tumors,2010
+657,116616265,Female,Unclassified Tumors,2010
+1558,117908205,Female,Unclassified Tumors,2011
+653,117908205,Female,Unclassified Tumors,2011
+1588,119171985,Female,Unclassified Tumors,2012
+659,119171985,Female,Unclassified Tumors,2012
+1524,120333643,Female,Unclassified Tumors,2013
+668,120333643,Female,Unclassified Tumors,2013
+1517,121537081,Female,Unclassified Tumors,2014
+745,121537081,Female,Unclassified Tumors,2014
+1406,122685213,Female,Unclassified Tumors,2015
+734,122685213,Female,Unclassified Tumors,2015
+1285,123817960,Female,Unclassified Tumors,2016
+607,123817960,Female,Unclassified Tumors,2016
+1175,124879836,Female,Unclassified Tumors,2017
+661,124879836,Female,Unclassified Tumors,2017
+54,109112165,Female,Unique astrocytoma variants,2004
+18,109112165,Female,Unique astrocytoma variants,2004
+43,110320645,Female,Unique astrocytoma variants,2005
+23,110320645,Female,Unique astrocytoma variants,2005
+49,111567226,Female,Unique astrocytoma variants,2006
+24,111567226,Female,Unique astrocytoma variants,2006
+62,112783993,Female,Unique astrocytoma variants,2007
+19,112783993,Female,Unique astrocytoma variants,2007
+59,114027722,Female,Unique astrocytoma variants,2008
+22,114027722,Female,Unique astrocytoma variants,2008
+75,115293599,Female,Unique astrocytoma variants,2009
+29,115293599,Female,Unique astrocytoma variants,2009
+70,116616265,Female,Unique astrocytoma variants,2010
+20,116616265,Female,Unique astrocytoma variants,2010
+81,117908205,Female,Unique astrocytoma variants,2011
+29,117908205,Female,Unique astrocytoma variants,2011
+101,119171985,Female,Unique astrocytoma variants,2012
+31,119171985,Female,Unique astrocytoma variants,2012
+96,120333643,Female,Unique astrocytoma variants,2013
+30,120333643,Female,Unique astrocytoma variants,2013
+100,121537081,Female,Unique astrocytoma variants,2014
+38,121537081,Female,Unique astrocytoma variants,2014
+103,122685213,Female,Unique astrocytoma variants,2015
+23,122685213,Female,Unique astrocytoma variants,2015
+104,123817960,Female,Unique astrocytoma variants,2016
+36,123817960,Female,Unique astrocytoma variants,2016
+87,124879836,Female,Unique astrocytoma variants,2017
+28,124879836,Female,Unique astrocytoma variants,2017
+22,106947980,Male,All other,2008
+18,110844094,Male,All other,2011
+24,110844094,Male,All other,2011
+21,112218652,Male,All other,2012
+19,113477293,Male,All other,2013
+28,113477293,Male,All other,2013
+27,114741253,Male,All other,2014
+25,115974555,Male,All other,2015
+26,115974555,Male,All other,2015
+43,117142413,Male,All other,2016
+26,117142413,Male,All other,2016
+38,118201255,Male,All other,2017
+23,118201255,Male,All other,2017
+671,101938779,Male,Anaplastic astrocytoma,2004
+700,103190694,Male,Anaplastic astrocytoma,2005
+699,104488268,Male,Anaplastic astrocytoma,2006
+673,105697783,Male,Anaplastic astrocytoma,2007
+709,106947980,Male,Anaplastic astrocytoma,2008
+713,108197539,Male,Anaplastic astrocytoma,2009
+707,109527917,Male,Anaplastic astrocytoma,2010
+709,110844094,Male,Anaplastic astrocytoma,2011
+751,112218652,Male,Anaplastic astrocytoma,2012
+789,113477293,Male,Anaplastic astrocytoma,2013
+787,114741253,Male,Anaplastic astrocytoma,2014
+778,115974555,Male,Anaplastic astrocytoma,2015
+823,117142413,Male,Anaplastic astrocytoma,2016
+770,118201255,Male,Anaplastic astrocytoma,2017
+211,101938779,Male,Anaplastic oligodendroglioma,2004
+210,103190694,Male,Anaplastic oligodendroglioma,2005
+217,104488268,Male,Anaplastic oligodendroglioma,2006
+183,105697783,Male,Anaplastic oligodendroglioma,2007
+189,106947980,Male,Anaplastic oligodendroglioma,2008
+189,108197539,Male,Anaplastic oligodendroglioma,2009
+194,109527917,Male,Anaplastic oligodendroglioma,2010
+182,110844094,Male,Anaplastic oligodendroglioma,2011
+188,112218652,Male,Anaplastic oligodendroglioma,2012
+220,113477293,Male,Anaplastic oligodendroglioma,2013
+202,114741253,Male,Anaplastic oligodendroglioma,2014
+189,115974555,Male,Anaplastic oligodendroglioma,2015
+201,117142413,Male,Anaplastic oligodendroglioma,2016
+230,118201255,Male,Anaplastic oligodendroglioma,2017
+637,101938779,Male,"Astrocytoma, NOS",2004
+634,103190694,Male,"Astrocytoma, NOS",2005
+649,104488268,Male,"Astrocytoma, NOS",2006
+625,105697783,Male,"Astrocytoma, NOS",2007
+626,106947980,Male,"Astrocytoma, NOS",2008
+574,108197539,Male,"Astrocytoma, NOS",2009
+615,109527917,Male,"Astrocytoma, NOS",2010
+581,110844094,Male,"Astrocytoma, NOS",2011
+558,112218652,Male,"Astrocytoma, NOS",2012
+564,113477293,Male,"Astrocytoma, NOS",2013
+599,114741253,Male,"Astrocytoma, NOS",2014
+673,115974555,Male,"Astrocytoma, NOS",2015
+680,117142413,Male,"Astrocytoma, NOS",2016
+689,118201255,Male,"Astrocytoma, NOS",2017
+24,101938779,Male,Choroid plexus,2004
+37,103190694,Male,Choroid plexus,2005
+26,104488268,Male,Choroid plexus,2006
+34,105697783,Male,Choroid plexus,2007
+27,106947980,Male,Choroid plexus,2008
+29,108197539,Male,Choroid plexus,2009
+36,109527917,Male,Choroid plexus,2010
+32,110844094,Male,Choroid plexus,2011
+34,112218652,Male,Choroid plexus,2012
+30,113477293,Male,Choroid plexus,2013
+41,114741253,Male,Choroid plexus,2014
+37,115974555,Male,Choroid plexus,2015
+31,117142413,Male,Choroid plexus,2016
+48,118201255,Male,Choroid plexus,2017
+185,101938779,Male,Craniopharyngioma,2004
+231,103190694,Male,Craniopharyngioma,2005
+191,104488268,Male,Craniopharyngioma,2006
+200,105697783,Male,Craniopharyngioma,2007
+198,106947980,Male,Craniopharyngioma,2008
+202,108197539,Male,Craniopharyngioma,2009
+202,109527917,Male,Craniopharyngioma,2010
+196,110844094,Male,Craniopharyngioma,2011
+216,112218652,Male,Craniopharyngioma,2012
+227,113477293,Male,Craniopharyngioma,2013
+203,114741253,Male,Craniopharyngioma,2014
+221,115974555,Male,Craniopharyngioma,2015
+240,117142413,Male,Craniopharyngioma,2016
+237,118201255,Male,Craniopharyngioma,2017
+145,101938779,Male,Diffuse astrocytoma,2004
+150,103190694,Male,Diffuse astrocytoma,2005
+200,104488268,Male,Diffuse astrocytoma,2006
+185,105697783,Male,Diffuse astrocytoma,2007
+210,106947980,Male,Diffuse astrocytoma,2008
+208,108197539,Male,Diffuse astrocytoma,2009
+187,109527917,Male,Diffuse astrocytoma,2010
+137,110844094,Male,Diffuse astrocytoma,2011
+113,112218652,Male,Diffuse astrocytoma,2012
+103,113477293,Male,Diffuse astrocytoma,2013
+69,114741253,Male,Diffuse astrocytoma,2014
+49,115974555,Male,Diffuse astrocytoma,2015
+23,117142413,Male,Diffuse astrocytoma,2016
+98,101938779,Male,Embryonal/primitive/medulloblastoma,2004
+105,103190694,Male,Embryonal/primitive/medulloblastoma,2005
+97,104488268,Male,Embryonal/primitive/medulloblastoma,2006
+124,105697783,Male,Embryonal/primitive/medulloblastoma,2007
+123,106947980,Male,Embryonal/primitive/medulloblastoma,2008
+133,108197539,Male,Embryonal/primitive/medulloblastoma,2009
+125,109527917,Male,Embryonal/primitive/medulloblastoma,2010
+118,110844094,Male,Embryonal/primitive/medulloblastoma,2011
+93,112218652,Male,Embryonal/primitive/medulloblastoma,2012
+97,113477293,Male,Embryonal/primitive/medulloblastoma,2013
+106,114741253,Male,Embryonal/primitive/medulloblastoma,2014
+99,115974555,Male,Embryonal/primitive/medulloblastoma,2015
+119,117142413,Male,Embryonal/primitive/medulloblastoma,2016
+97,118201255,Male,Embryonal/primitive/medulloblastoma,2017
+141,101938779,Male,Ependymoma variants,2004
+150,103190694,Male,Ependymoma variants,2005
+161,104488268,Male,Ependymoma variants,2006
+136,105697783,Male,Ependymoma variants,2007
+145,106947980,Male,Ependymoma variants,2008
+147,108197539,Male,Ependymoma variants,2009
+155,109527917,Male,Ependymoma variants,2010
+151,110844094,Male,Ependymoma variants,2011
+163,112218652,Male,Ependymoma variants,2012
+157,113477293,Male,Ependymoma variants,2013
+167,114741253,Male,Ependymoma variants,2014
+158,115974555,Male,Ependymoma variants,2015
+169,117142413,Male,Ependymoma variants,2016
+152,118201255,Male,Ependymoma variants,2017
+302,101938779,Male,Ependymoma/anaplastic ependymoma,2004
+300,103190694,Male,Ependymoma/anaplastic ependymoma,2005
+291,104488268,Male,Ependymoma/anaplastic ependymoma,2006
+289,105697783,Male,Ependymoma/anaplastic ependymoma,2007
+320,106947980,Male,Ependymoma/anaplastic ependymoma,2008
+337,108197539,Male,Ependymoma/anaplastic ependymoma,2009
+331,109527917,Male,Ependymoma/anaplastic ependymoma,2010
+297,110844094,Male,Ependymoma/anaplastic ependymoma,2011
+327,112218652,Male,Ependymoma/anaplastic ependymoma,2012
+301,113477293,Male,Ependymoma/anaplastic ependymoma,2013
+22,114741253,Male,Ependymoma/anaplastic ependymoma,2014
+322,114741253,Male,Ependymoma/anaplastic ependymoma,2014
+306,115974555,Male,Ependymoma/anaplastic ependymoma,2015
+319,117142413,Male,Ependymoma/anaplastic ependymoma,2016
+294,118201255,Male,Ependymoma/anaplastic ependymoma,2017
+21,101938779,Male,Germ Cell Tumors,2004
+42,101938779,Male,Germ Cell Tumors,2004
+32,103190694,Male,Germ Cell Tumors,2005
+54,103190694,Male,Germ Cell Tumors,2005
+29,104488268,Male,Germ Cell Tumors,2006
+46,104488268,Male,Germ Cell Tumors,2006
+34,105697783,Male,Germ Cell Tumors,2007
+76,105697783,Male,Germ Cell Tumors,2007
+33,106947980,Male,Germ Cell Tumors,2008
+53,106947980,Male,Germ Cell Tumors,2008
+35,108197539,Male,Germ Cell Tumors,2009
+36,108197539,Male,Germ Cell Tumors,2009
+26,109527917,Male,Germ Cell Tumors,2010
+56,109527917,Male,Germ Cell Tumors,2010
+24,110844094,Male,Germ Cell Tumors,2011
+60,110844094,Male,Germ Cell Tumors,2011
+32,112218652,Male,Germ Cell Tumors,2012
+42,112218652,Male,Germ Cell Tumors,2012
+25,113477293,Male,Germ Cell Tumors,2013
+46,113477293,Male,Germ Cell Tumors,2013
+26,114741253,Male,Germ Cell Tumors,2014
+62,114741253,Male,Germ Cell Tumors,2014
+28,115974555,Male,Germ Cell Tumors,2015
+55,115974555,Male,Germ Cell Tumors,2015
+30,117142413,Male,Germ Cell Tumors,2016
+67,117142413,Male,Germ Cell Tumors,2016
+27,118201255,Male,Germ Cell Tumors,2017
+59,118201255,Male,Germ Cell Tumors,2017
+5467,101938779,Male,Glioblastoma,2004
+5544,103190694,Male,Glioblastoma,2005
+5508,104488268,Male,Glioblastoma,2006
+5820,105697783,Male,Glioblastoma,2007
+6009,106947980,Male,Glioblastoma,2008
+6014,108197539,Male,Glioblastoma,2009
+6122,109527917,Male,Glioblastoma,2010
+6304,110844094,Male,Glioblastoma,2011
+6525,112218652,Male,Glioblastoma,2012
+6639,113477293,Male,Glioblastoma,2013
+6794,114741253,Male,Glioblastoma,2014
+6881,115974555,Male,Glioblastoma,2015
+7174,117142413,Male,Glioblastoma,2016
+7226,118201255,Male,Glioblastoma,2017
+422,101938779,Male,"Glioma malignant, NOS",2004
+442,103190694,Male,"Glioma malignant, NOS",2005
+445,104488268,Male,"Glioma malignant, NOS",2006
+463,105697783,Male,"Glioma malignant, NOS",2007
+16,106947980,Male,"Glioma malignant, NOS",2008
+478,106947980,Male,"Glioma malignant, NOS",2008
+456,108197539,Male,"Glioma malignant, NOS",2009
+409,109527917,Male,"Glioma malignant, NOS",2010
+17,110844094,Male,"Glioma malignant, NOS",2011
+490,110844094,Male,"Glioma malignant, NOS",2011
+486,112218652,Male,"Glioma malignant, NOS",2012
+459,113477293,Male,"Glioma malignant, NOS",2013
+496,114741253,Male,"Glioma malignant, NOS",2014
+21,115974555,Male,"Glioma malignant, NOS",2015
+481,115974555,Male,"Glioma malignant, NOS",2015
+29,117142413,Male,"Glioma malignant, NOS",2016
+525,117142413,Male,"Glioma malignant, NOS",2016
+16,118201255,Male,"Glioma malignant, NOS",2017
+573,118201255,Male,"Glioma malignant, NOS",2017
+250,101938779,Male,Hemangioblastoma,2004
+286,103190694,Male,Hemangioblastoma,2005
+276,104488268,Male,Hemangioblastoma,2006
+257,105697783,Male,Hemangioblastoma,2007
+288,106947980,Male,Hemangioblastoma,2008
+273,108197539,Male,Hemangioblastoma,2009
+304,109527917,Male,Hemangioblastoma,2010
+277,110844094,Male,Hemangioblastoma,2011
+282,112218652,Male,Hemangioblastoma,2012
+274,113477293,Male,Hemangioblastoma,2013
+275,114741253,Male,Hemangioblastoma,2014
+285,115974555,Male,Hemangioblastoma,2015
+272,117142413,Male,Hemangioblastoma,2016
+324,118201255,Male,Hemangioblastoma,2017
+139,101938779,Male,Hemangioma,2004
+199,103190694,Male,Hemangioma,2005
+232,104488268,Male,Hemangioma,2006
+267,105697783,Male,Hemangioma,2007
+325,106947980,Male,Hemangioma,2008
+424,108197539,Male,Hemangioma,2009
+445,109527917,Male,Hemangioma,2010
+503,110844094,Male,Hemangioma,2011
+509,112218652,Male,Hemangioma,2012
+504,113477293,Male,Hemangioma,2013
+495,114741253,Male,Hemangioma,2014
+441,115974555,Male,Hemangioma,2015
+398,117142413,Male,Hemangioma,2016
+393,118201255,Male,Hemangioma,2017
+26,101938779,Male,Local Extensions from Regional Tumors,2004
+23,103190694,Male,Local Extensions from Regional Tumors,2005
+35,104488268,Male,Local Extensions from Regional Tumors,2006
+23,105697783,Male,Local Extensions from Regional Tumors,2007
+30,106947980,Male,Local Extensions from Regional Tumors,2008
+29,108197539,Male,Local Extensions from Regional Tumors,2009
+30,109527917,Male,Local Extensions from Regional Tumors,2010
+22,110844094,Male,Local Extensions from Regional Tumors,2011
+28,112218652,Male,Local Extensions from Regional Tumors,2012
+29,113477293,Male,Local Extensions from Regional Tumors,2013
+25,114741253,Male,Local Extensions from Regional Tumors,2014
+23,115974555,Male,Local Extensions from Regional Tumors,2015
+26,117142413,Male,Local Extensions from Regional Tumors,2016
+20,118201255,Male,Local Extensions from Regional Tumors,2017
+749,101938779,Male,Lymphomas and Hematopoietic Neoplasms,2004
+778,103190694,Male,Lymphomas and Hematopoietic Neoplasms,2005
+761,104488268,Male,Lymphomas and Hematopoietic Neoplasms,2006
+737,105697783,Male,Lymphomas and Hematopoietic Neoplasms,2007
+774,106947980,Male,Lymphomas and Hematopoietic Neoplasms,2008
+763,108197539,Male,Lymphomas and Hematopoietic Neoplasms,2009
+757,109527917,Male,Lymphomas and Hematopoietic Neoplasms,2010
+810,110844094,Male,Lymphomas and Hematopoietic Neoplasms,2011
+757,112218652,Male,Lymphomas and Hematopoietic Neoplasms,2012
+730,113477293,Male,Lymphomas and Hematopoietic Neoplasms,2013
+818,114741253,Male,Lymphomas and Hematopoietic Neoplasms,2014
+820,115974555,Male,Lymphomas and Hematopoietic Neoplasms,2015
+819,117142413,Male,Lymphomas and Hematopoietic Neoplasms,2016
+878,118201255,Male,Lymphomas and Hematopoietic Neoplasms,2017
+4893,101938779,Male,Meningioma,2004
+170,101938779,Male,Meningioma,2004
+5468,103190694,Male,Meningioma,2005
+155,103190694,Male,Meningioma,2005
+5877,104488268,Male,Meningioma,2006
+154,104488268,Male,Meningioma,2006
+6089,105697783,Male,Meningioma,2007
+175,105697783,Male,Meningioma,2007
+6682,106947980,Male,Meningioma,2008
+148,106947980,Male,Meningioma,2008
+7240,108197539,Male,Meningioma,2009
+150,108197539,Male,Meningioma,2009
+7259,109527917,Male,Meningioma,2010
+121,109527917,Male,Meningioma,2010
+7445,110844094,Male,Meningioma,2011
+141,110844094,Male,Meningioma,2011
+7623,112218652,Male,Meningioma,2012
+152,112218652,Male,Meningioma,2012
+8108,113477293,Male,Meningioma,2013
+155,113477293,Male,Meningioma,2013
+8222,114741253,Male,Meningioma,2014
+164,114741253,Male,Meningioma,2014
+8672,115974555,Male,Meningioma,2015
+148,115974555,Male,Meningioma,2015
+8802,117142413,Male,Meningioma,2016
+155,117142413,Male,Meningioma,2016
+9066,118201255,Male,Meningioma,2017
+142,118201255,Male,Meningioma,2017
+295,101938779,Male,Mixed glioma,2004
+329,103190694,Male,Mixed glioma,2005
+364,104488268,Male,Mixed glioma,2006
+348,105697783,Male,Mixed glioma,2007
+339,106947980,Male,Mixed glioma,2008
+392,108197539,Male,Mixed glioma,2009
+341,109527917,Male,Mixed glioma,2010
+363,110844094,Male,Mixed glioma,2011
+331,112218652,Male,Mixed glioma,2012
+369,113477293,Male,Mixed glioma,2013
+267,114741253,Male,Mixed glioma,2014
+143,115974555,Male,Mixed glioma,2015
+64,117142413,Male,Mixed glioma,2016
+30,118201255,Male,Mixed glioma,2017
+507,101938779,Male,"Neoplasm, unspecified",2004
+609,101938779,Male,"Neoplasm, unspecified",2004
+626,103190694,Male,"Neoplasm, unspecified",2005
+603,103190694,Male,"Neoplasm, unspecified",2005
+615,104488268,Male,"Neoplasm, unspecified",2006
+565,104488268,Male,"Neoplasm, unspecified",2006
+588,105697783,Male,"Neoplasm, unspecified",2007
+565,105697783,Male,"Neoplasm, unspecified",2007
+607,106947980,Male,"Neoplasm, unspecified",2008
+618,106947980,Male,"Neoplasm, unspecified",2008
+608,108197539,Male,"Neoplasm, unspecified",2009
+642,108197539,Male,"Neoplasm, unspecified",2009
+664,109527917,Male,"Neoplasm, unspecified",2010
+600,109527917,Male,"Neoplasm, unspecified",2010
+631,110844094,Male,"Neoplasm, unspecified",2011
+610,110844094,Male,"Neoplasm, unspecified",2011
+709,112218652,Male,"Neoplasm, unspecified",2012
+619,112218652,Male,"Neoplasm, unspecified",2012
+679,113477293,Male,"Neoplasm, unspecified",2013
+610,113477293,Male,"Neoplasm, unspecified",2013
+635,114741253,Male,"Neoplasm, unspecified",2014
+662,114741253,Male,"Neoplasm, unspecified",2014
+622,115974555,Male,"Neoplasm, unspecified",2015
+623,115974555,Male,"Neoplasm, unspecified",2015
+565,117142413,Male,"Neoplasm, unspecified",2016
+613,117142413,Male,"Neoplasm, unspecified",2016
+541,118201255,Male,"Neoplasm, unspecified",2017
+540,118201255,Male,"Neoplasm, unspecified",2017
+2327,101938779,Male,"Nerve sheath, benign and malignant",2004
+27,101938779,Male,"Nerve sheath, benign and malignant",2004
+2674,103190694,Male,"Nerve sheath, benign and malignant",2005
+30,103190694,Male,"Nerve sheath, benign and malignant",2005
+2653,104488268,Male,"Nerve sheath, benign and malignant",2006
+18,104488268,Male,"Nerve sheath, benign and malignant",2006
+2734,105697783,Male,"Nerve sheath, benign and malignant",2007
+20,105697783,Male,"Nerve sheath, benign and malignant",2007
+2704,106947980,Male,"Nerve sheath, benign and malignant",2008
+25,106947980,Male,"Nerve sheath, benign and malignant",2008
+2885,108197539,Male,"Nerve sheath, benign and malignant",2009
+20,108197539,Male,"Nerve sheath, benign and malignant",2009
+2889,109527917,Male,"Nerve sheath, benign and malignant",2010
+23,109527917,Male,"Nerve sheath, benign and malignant",2010
+2995,110844094,Male,"Nerve sheath, benign and malignant",2011
+17,110844094,Male,"Nerve sheath, benign and malignant",2011
+3175,112218652,Male,"Nerve sheath, benign and malignant",2012
+24,112218652,Male,"Nerve sheath, benign and malignant",2012
+3238,113477293,Male,"Nerve sheath, benign and malignant",2013
+21,113477293,Male,"Nerve sheath, benign and malignant",2013
+3489,114741253,Male,"Nerve sheath, benign and malignant",2014
+22,114741253,Male,"Nerve sheath, benign and malignant",2014
+3428,115974555,Male,"Nerve sheath, benign and malignant",2015
+16,115974555,Male,"Nerve sheath, benign and malignant",2015
+3292,117142413,Male,"Nerve sheath, benign and malignant",2016
+21,117142413,Male,"Nerve sheath, benign and malignant",2016
+3158,118201255,Male,"Nerve sheath, benign and malignant",2017
+25,118201255,Male,"Nerve sheath, benign and malignant",2017
+29,101938779,Male,Neuroepithelial,2004
+18,103190694,Male,Neuroepithelial,2005
+25,104488268,Male,Neuroepithelial,2006
+32,105697783,Male,Neuroepithelial,2007
+18,106947980,Male,Neuroepithelial,2008
+24,108197539,Male,Neuroepithelial,2009
+26,109527917,Male,Neuroepithelial,2010
+29,110844094,Male,Neuroepithelial,2011
+28,112218652,Male,Neuroepithelial,2012
+27,113477293,Male,Neuroepithelial,2013
+35,114741253,Male,Neuroepithelial,2014
+32,115974555,Male,Neuroepithelial,2015
+24,117142413,Male,Neuroepithelial,2016
+19,118201255,Male,Neuroepithelial,2017
+161,101938779,Male,"Neuronal/glial, neuronal",2004
+22,101938779,Male,"Neuronal/glial, neuronal",2004
+191,103190694,Male,"Neuronal/glial, neuronal",2005
+35,103190694,Male,"Neuronal/glial, neuronal",2005
+201,104488268,Male,"Neuronal/glial, neuronal",2006
+25,104488268,Male,"Neuronal/glial, neuronal",2006
+184,105697783,Male,"Neuronal/glial, neuronal",2007
+23,105697783,Male,"Neuronal/glial, neuronal",2007
+218,106947980,Male,"Neuronal/glial, neuronal",2008
+23,106947980,Male,"Neuronal/glial, neuronal",2008
+217,108197539,Male,"Neuronal/glial, neuronal",2009
+20,108197539,Male,"Neuronal/glial, neuronal",2009
+234,109527917,Male,"Neuronal/glial, neuronal",2010
+187,110844094,Male,"Neuronal/glial, neuronal",2011
+22,110844094,Male,"Neuronal/glial, neuronal",2011
+205,112218652,Male,"Neuronal/glial, neuronal",2012
+22,112218652,Male,"Neuronal/glial, neuronal",2012
+215,113477293,Male,"Neuronal/glial, neuronal",2013
+18,113477293,Male,"Neuronal/glial, neuronal",2013
+223,114741253,Male,"Neuronal/glial, neuronal",2014
+20,114741253,Male,"Neuronal/glial, neuronal",2014
+264,115974555,Male,"Neuronal/glial, neuronal",2015
+16,115974555,Male,"Neuronal/glial, neuronal",2015
+238,117142413,Male,"Neuronal/glial, neuronal",2016
+21,117142413,Male,"Neuronal/glial, neuronal",2016
+233,118201255,Male,"Neuronal/glial, neuronal",2017
+477,101938779,Male,Oligodendroglioma,2004
+440,103190694,Male,Oligodendroglioma,2005
+467,104488268,Male,Oligodendroglioma,2006
+438,105697783,Male,Oligodendroglioma,2007
+408,106947980,Male,Oligodendroglioma,2008
+473,108197539,Male,Oligodendroglioma,2009
+470,109527917,Male,Oligodendroglioma,2010
+441,110844094,Male,Oligodendroglioma,2011
+367,112218652,Male,Oligodendroglioma,2012
+367,113477293,Male,Oligodendroglioma,2013
+410,114741253,Male,Oligodendroglioma,2014
+403,115974555,Male,Oligodendroglioma,2015
+395,117142413,Male,Oligodendroglioma,2016
+388,118201255,Male,Oligodendroglioma,2017
+82,101938779,Male,Other mesenchymal,2004
+31,101938779,Male,Other mesenchymal,2004
+73,103190694,Male,Other mesenchymal,2005
+35,103190694,Male,Other mesenchymal,2005
+68,104488268,Male,Other mesenchymal,2006
+29,104488268,Male,Other mesenchymal,2006
+83,105697783,Male,Other mesenchymal,2007
+39,105697783,Male,Other mesenchymal,2007
+103,106947980,Male,Other mesenchymal,2008
+46,106947980,Male,Other mesenchymal,2008
+104,108197539,Male,Other mesenchymal,2009
+48,108197539,Male,Other mesenchymal,2009
+77,109527917,Male,Other mesenchymal,2010
+35,109527917,Male,Other mesenchymal,2010
+67,110844094,Male,Other mesenchymal,2011
+45,110844094,Male,Other mesenchymal,2011
+93,112218652,Male,Other mesenchymal,2012
+32,112218652,Male,Other mesenchymal,2012
+74,113477293,Male,Other mesenchymal,2013
+43,113477293,Male,Other mesenchymal,2013
+85,114741253,Male,Other mesenchymal,2014
+48,114741253,Male,Other mesenchymal,2014
+109,115974555,Male,Other mesenchymal,2015
+45,115974555,Male,Other mesenchymal,2015
+77,117142413,Male,Other mesenchymal,2016
+41,117142413,Male,Other mesenchymal,2016
+73,118201255,Male,Other mesenchymal,2017
+46,118201255,Male,Other mesenchymal,2017
+150,101938779,Male,Pilocytic astrocytoma,2004
+155,103190694,Male,Pilocytic astrocytoma,2005
+158,104488268,Male,Pilocytic astrocytoma,2006
+142,105697783,Male,Pilocytic astrocytoma,2007
+145,106947980,Male,Pilocytic astrocytoma,2008
+137,108197539,Male,Pilocytic astrocytoma,2009
+163,109527917,Male,Pilocytic astrocytoma,2010
+172,110844094,Male,Pilocytic astrocytoma,2011
+146,112218652,Male,Pilocytic astrocytoma,2012
+144,113477293,Male,Pilocytic astrocytoma,2013
+150,114741253,Male,Pilocytic astrocytoma,2014
+148,115974555,Male,Pilocytic astrocytoma,2015
+157,117142413,Male,Pilocytic astrocytoma,2016
+135,118201255,Male,Pilocytic astrocytoma,2017
+18,103190694,Male,Pineal parenchymal,2005
+18,104488268,Male,Pineal parenchymal,2006
+18,104488268,Male,Pineal parenchymal,2006
+16,105697783,Male,Pineal parenchymal,2007
+16,105697783,Male,Pineal parenchymal,2007
+23,106947980,Male,Pineal parenchymal,2008
+21,106947980,Male,Pineal parenchymal,2008
+18,108197539,Male,Pineal parenchymal,2009
+18,109527917,Male,Pineal parenchymal,2010
+16,110844094,Male,Pineal parenchymal,2011
+18,110844094,Male,Pineal parenchymal,2011
+26,112218652,Male,Pineal parenchymal,2012
+20,112218652,Male,Pineal parenchymal,2012
+36,113477293,Male,Pineal parenchymal,2013
+22,114741253,Male,Pineal parenchymal,2014
+19,114741253,Male,Pineal parenchymal,2014
+28,115974555,Male,Pineal parenchymal,2015
+26,117142413,Male,Pineal parenchymal,2016
+34,117142413,Male,Pineal parenchymal,2016
+26,118201255,Male,Pineal parenchymal,2017
+3435,101938779,Male,Pituitary,2004
+18,101938779,Male,Pituitary,2004
+3783,103190694,Male,Pituitary,2005
+4067,104488268,Male,Pituitary,2006
+17,104488268,Male,Pituitary,2006
+4453,105697783,Male,Pituitary,2007
+24,105697783,Male,Pituitary,2007
+4851,106947980,Male,Pituitary,2008
+5191,108197539,Male,Pituitary,2009
+5373,109527917,Male,Pituitary,2010
+5472,110844094,Male,Pituitary,2011
+21,110844094,Male,Pituitary,2011
+5967,112218652,Male,Pituitary,2012
+19,112218652,Male,Pituitary,2012
+6006,113477293,Male,Pituitary,2013
+25,113477293,Male,Pituitary,2013
+6092,114741253,Male,Pituitary,2014
+21,114741253,Male,Pituitary,2014
+6298,115974555,Male,Pituitary,2015
+16,115974555,Male,Pituitary,2015
+6268,117142413,Male,Pituitary,2016
+6165,118201255,Male,Pituitary,2017
+2327,101938779,Male,Tumors of Cranial and Spinal Nerves,2004
+27,101938779,Male,Tumors of Cranial and Spinal Nerves,2004
+2674,103190694,Male,Tumors of Cranial and Spinal Nerves,2005
+30,103190694,Male,Tumors of Cranial and Spinal Nerves,2005
+2654,104488268,Male,Tumors of Cranial and Spinal Nerves,2006
+18,104488268,Male,Tumors of Cranial and Spinal Nerves,2006
+2735,105697783,Male,Tumors of Cranial and Spinal Nerves,2007
+20,105697783,Male,Tumors of Cranial and Spinal Nerves,2007
+2706,106947980,Male,Tumors of Cranial and Spinal Nerves,2008
+25,106947980,Male,Tumors of Cranial and Spinal Nerves,2008
+2889,108197539,Male,Tumors of Cranial and Spinal Nerves,2009
+20,108197539,Male,Tumors of Cranial and Spinal Nerves,2009
+2890,109527917,Male,Tumors of Cranial and Spinal Nerves,2010
+23,109527917,Male,Tumors of Cranial and Spinal Nerves,2010
+2998,110844094,Male,Tumors of Cranial and Spinal Nerves,2011
+17,110844094,Male,Tumors of Cranial and Spinal Nerves,2011
+3177,112218652,Male,Tumors of Cranial and Spinal Nerves,2012
+24,112218652,Male,Tumors of Cranial and Spinal Nerves,2012
+3242,113477293,Male,Tumors of Cranial and Spinal Nerves,2013
+21,113477293,Male,Tumors of Cranial and Spinal Nerves,2013
+3492,114741253,Male,Tumors of Cranial and Spinal Nerves,2014
+22,114741253,Male,Tumors of Cranial and Spinal Nerves,2014
+3435,115974555,Male,Tumors of Cranial and Spinal Nerves,2015
+16,115974555,Male,Tumors of Cranial and Spinal Nerves,2015
+3296,117142413,Male,Tumors of Cranial and Spinal Nerves,2016
+21,117142413,Male,Tumors of Cranial and Spinal Nerves,2016
+3162,118201255,Male,Tumors of Cranial and Spinal Nerves,2017
+25,118201255,Male,Tumors of Cranial and Spinal Nerves,2017
+448,101938779,Male,Tumors of Neuroepthelial Tissue,2004
+8968,101938779,Male,Tumors of Neuroepthelial Tissue,2004
+524,103190694,Male,Tumors of Neuroepthelial Tissue,2005
+9102,103190694,Male,Tumors of Neuroepthelial Tissue,2005
+560,104488268,Male,Tumors of Neuroepthelial Tissue,2006
+9192,104488268,Male,Tumors of Neuroepthelial Tissue,2006
+520,105697783,Male,Tumors of Neuroepthelial Tissue,2007
+9394,105697783,Male,Tumors of Neuroepthelial Tissue,2007
+586,106947980,Male,Tumors of Neuroepthelial Tissue,2008
+9657,106947980,Male,Tumors of Neuroepthelial Tissue,2008
+588,108197539,Male,Tumors of Neuroepthelial Tissue,2009
+9729,108197539,Male,Tumors of Neuroepthelial Tissue,2009
+646,109527917,Male,Tumors of Neuroepthelial Tissue,2010
+9755,109527917,Male,Tumors of Neuroepthelial Tissue,2010
+604,110844094,Male,Tumors of Neuroepthelial Tissue,2011
+9902,110844094,Male,Tumors of Neuroepthelial Tissue,2011
+627,112218652,Male,Tumors of Neuroepthelial Tissue,2012
+9990,112218652,Male,Tumors of Neuroepthelial Tissue,2012
+609,113477293,Male,Tumors of Neuroepthelial Tissue,2013
+10181,113477293,Male,Tumors of Neuroepthelial Tissue,2013
+678,114741253,Male,Tumors of Neuroepthelial Tissue,2014
+10323,114741253,Male,Tumors of Neuroepthelial Tissue,2014
+688,115974555,Male,Tumors of Neuroepthelial Tissue,2015
+10260,115974555,Male,Tumors of Neuroepthelial Tissue,2015
+708,117142413,Male,Tumors of Neuroepthelial Tissue,2016
+10591,117142413,Male,Tumors of Neuroepthelial Tissue,2016
+653,118201255,Male,Tumors of Neuroepthelial Tissue,2017
+10546,118201255,Male,Tumors of Neuroepthelial Tissue,2017
+3620,101938779,Male,Tumors of Sellar Region,2004
+18,101938779,Male,Tumors of Sellar Region,2004
+4014,103190694,Male,Tumors of Sellar Region,2005
+4258,104488268,Male,Tumors of Sellar Region,2006
+18,104488268,Male,Tumors of Sellar Region,2006
+4653,105697783,Male,Tumors of Sellar Region,2007
+24,105697783,Male,Tumors of Sellar Region,2007
+5049,106947980,Male,Tumors of Sellar Region,2008
+5393,108197539,Male,Tumors of Sellar Region,2009
+5575,109527917,Male,Tumors of Sellar Region,2010
+5668,110844094,Male,Tumors of Sellar Region,2011
+22,110844094,Male,Tumors of Sellar Region,2011
+6183,112218652,Male,Tumors of Sellar Region,2012
+19,112218652,Male,Tumors of Sellar Region,2012
+6233,113477293,Male,Tumors of Sellar Region,2013
+25,113477293,Male,Tumors of Sellar Region,2013
+6295,114741253,Male,Tumors of Sellar Region,2014
+24,114741253,Male,Tumors of Sellar Region,2014
+6519,115974555,Male,Tumors of Sellar Region,2015
+16,115974555,Male,Tumors of Sellar Region,2015
+6508,117142413,Male,Tumors of Sellar Region,2016
+6402,118201255,Male,Tumors of Sellar Region,2017
+5225,101938779,Male,Tumors of the Meninges,2004
+202,101938779,Male,Tumors of the Meninges,2004
+5827,103190694,Male,Tumors of the Meninges,2005
+193,103190694,Male,Tumors of the Meninges,2005
+6221,104488268,Male,Tumors of the Meninges,2006
+186,104488268,Male,Tumors of the Meninges,2006
+6429,105697783,Male,Tumors of the Meninges,2007
+219,105697783,Male,Tumors of the Meninges,2007
+7073,106947980,Male,Tumors of the Meninges,2008
+199,106947980,Male,Tumors of the Meninges,2008
+7617,108197539,Male,Tumors of the Meninges,2009
+199,108197539,Male,Tumors of the Meninges,2009
+7640,109527917,Male,Tumors of the Meninges,2010
+158,109527917,Male,Tumors of the Meninges,2010
+7789,110844094,Male,Tumors of the Meninges,2011
+187,110844094,Male,Tumors of the Meninges,2011
+7998,112218652,Male,Tumors of the Meninges,2012
+184,112218652,Male,Tumors of the Meninges,2012
+8456,113477293,Male,Tumors of the Meninges,2013
+198,113477293,Male,Tumors of the Meninges,2013
+8582,114741253,Male,Tumors of the Meninges,2014
+214,114741253,Male,Tumors of the Meninges,2014
+9066,115974555,Male,Tumors of the Meninges,2015
+194,115974555,Male,Tumors of the Meninges,2015
+9151,117142413,Male,Tumors of the Meninges,2016
+201,117142413,Male,Tumors of the Meninges,2016
+9463,118201255,Male,Tumors of the Meninges,2017
+192,118201255,Male,Tumors of the Meninges,2017
+648,101938779,Male,Unclassified Tumors,2004
+616,101938779,Male,Unclassified Tumors,2004
+826,103190694,Male,Unclassified Tumors,2005
+612,103190694,Male,Unclassified Tumors,2005
+849,104488268,Male,Unclassified Tumors,2006
+576,104488268,Male,Unclassified Tumors,2006
+857,105697783,Male,Unclassified Tumors,2007
+573,105697783,Male,Unclassified Tumors,2007
+936,106947980,Male,Unclassified Tumors,2008
+628,106947980,Male,Unclassified Tumors,2008
+1034,108197539,Male,Unclassified Tumors,2009
+653,108197539,Male,Unclassified Tumors,2009
+1111,109527917,Male,Unclassified Tumors,2010
+613,109527917,Male,Unclassified Tumors,2010
+1136,110844094,Male,Unclassified Tumors,2011
+626,110844094,Male,Unclassified Tumors,2011
+1218,112218652,Male,Unclassified Tumors,2012
+631,112218652,Male,Unclassified Tumors,2012
+1186,113477293,Male,Unclassified Tumors,2013
+620,113477293,Male,Unclassified Tumors,2013
+1132,114741253,Male,Unclassified Tumors,2014
+673,114741253,Male,Unclassified Tumors,2014
+1064,115974555,Male,Unclassified Tumors,2015
+631,115974555,Male,Unclassified Tumors,2015
+964,117142413,Male,Unclassified Tumors,2016
+623,117142413,Male,Unclassified Tumors,2016
+938,118201255,Male,Unclassified Tumors,2017
+549,118201255,Male,Unclassified Tumors,2017
+100,101938779,Male,Unique astrocytoma variants,2004
+18,101938779,Male,Unique astrocytoma variants,2004
+113,103190694,Male,Unique astrocytoma variants,2005
+17,103190694,Male,Unique astrocytoma variants,2005
+138,104488268,Male,Unique astrocytoma variants,2006
+24,104488268,Male,Unique astrocytoma variants,2006
+122,105697783,Male,Unique astrocytoma variants,2007
+29,105697783,Male,Unique astrocytoma variants,2007
+150,106947980,Male,Unique astrocytoma variants,2008
+35,106947980,Male,Unique astrocytoma variants,2008
+159,108197539,Male,Unique astrocytoma variants,2009
+37,108197539,Male,Unique astrocytoma variants,2009
+184,109527917,Male,Unique astrocytoma variants,2010
+26,109527917,Male,Unique astrocytoma variants,2010
+187,110844094,Male,Unique astrocytoma variants,2011
+31,110844094,Male,Unique astrocytoma variants,2011
+174,112218652,Male,Unique astrocytoma variants,2012
+27,112218652,Male,Unique astrocytoma variants,2012
+169,113477293,Male,Unique astrocytoma variants,2013
+39,113477293,Male,Unique astrocytoma variants,2013
+178,114741253,Male,Unique astrocytoma variants,2014
+40,114741253,Male,Unique astrocytoma variants,2014
+172,115974555,Male,Unique astrocytoma variants,2015
+27,115974555,Male,Unique astrocytoma variants,2015
+195,117142413,Male,Unique astrocytoma variants,2016
+29,117142413,Male,Unique astrocytoma variants,2016
+174,118201255,Male,Unique astrocytoma variants,2017
+41,118201255,Male,Unique astrocytoma variants,2017
